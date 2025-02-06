@@ -1,0 +1,1252 @@
+Age,Gender,Country,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence
+0.3518518518518518,Female,United States,No,No,Yes,Often,6-25,No,Yes,Yes,Not sure,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.48148148148148145,Male,United States,No,No,No,Rarely,More than 1000,No,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.25925925925925924,Male,Canada,No,No,No,Rarely,6-25,No,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,No,No
+0.24074074074074076,Male,United Kingdom,No,Yes,Yes,Often,26-100,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,Yes
+0.24074074074074076,Male,United States,No,No,No,Never,100-500,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No
+0.27777777777777773,Male,United States,No,Yes,No,Sometimes,6-25,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No
+0.3148148148148148,Female,United States,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,No,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No
+0.3888888888888889,Male,Canada,No,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,Don't know,No,No,No,No,No,No,No,No
+0.44444444444444436,Female,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No
+0.09259259259259262,Male,Canada,No,No,No,Never,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.24074074074074076,Male,United States,No,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.20370370370370366,Male,Bulgaria,No,No,No,Never,100-500,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No
+0.44444444444444436,Female,United States,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Yes
+0.3333333333333333,Male,United States,No,Yes,No,Never,500-1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No
+0.16666666666666669,Male,Canada,No,No,No,Never,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No
+0.20370370370370366,Female,United States,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,Some of them,Maybe,Maybe,Don't know,No
+0.09259259259259262,Male,United Kingdom,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,No,No
+0.25925925925925924,Male,United States,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,No,No
+0.5185185185185186,Male,United States,Yes,Yes,No,Sometimes,1-5,Yes,Yes,Yes,Not sure,Yes,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,Yes
+0.3333333333333333,Male,France,Yes,Yes,No,Don't know,6-25,Yes,Yes,No,No,Yes,No,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.20370370370370366,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No
+0.24074074074074076,Male,United States,Yes,No,No,Never,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,Yes,No
+0.5185185185185186,Male,United States,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No
+0.4259259259259259,Male,United States,No,No,Yes,Never,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Yes,Don't know,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Not sure,Don't know,Yes,Yes,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No
+0.3148148148148148,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,No,Don't know,No,Very easy,Yes,No,Some of them,Yes,No,Yes,No,No
+0.27777777777777773,Male,United States,No,No,No,Don't know,1-5,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No
+0.3148148148148148,Female,United States,No,Yes,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.2962962962962962,Male,United States,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,No,No,No,No,No
+0.3518518518518518,Male,United Kingdom,No,No,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No
+0.25925925925925924,Male,United Kingdom,No,No,No,Never,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,Maybe,No,No
+0.24074074074074076,Male,United States,Yes,Yes,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No,No,No,Yes
+0.22222222222222227,Male,United Kingdom,No,Yes,Yes,Sometimes,500-1000,Yes,Yes,Don't know,No,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Don't know,No
+0.44444444444444436,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No
+0.4074074074074074,Female,United States,No,No,Yes,Sometimes,1-5,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Yes,No
+0.16666666666666669,Male,United States,No,No,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.20370370370370366,Male,Canada,No,No,No,Rarely,1-5,No,Yes,No,No,No,No,Don't know,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No
+0.3703703703703704,Male,Portugal,No,No,No,Don't know,100-500,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No
+0.5925925925925926,Male,United States,No,No,No,Don't know,100-500,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.3148148148148148,Male,United States,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.1111111111111111,Male,United Kingdom,No,No,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No,Yes
+0.3148148148148148,Male,United States,No,No,No,Don't know,More than 1000,Yes,Yes,Yes,Not sure,Don't know,Yes,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,Maybe,Don't know,No
+0.16666666666666669,Male,Canada,No,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,Some of them,No,No,No,Yes,No
+0.0,Male,Netherlands,No,No,No,Often,6-25,No,Yes,No,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,Some of them,No,No,No,No
+0.22222222222222227,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,No,No,No,Maybe,Don't know,No
+0.3703703703703704,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No
+0.18518518518518517,Male,United Kingdom,No,No,No,Don't know,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,Don't know,No
+0.2962962962962962,Male,United States,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,No
+0.14814814814814814,Male,Canada,Yes,No,No,Sometimes,1-5,No,Yes,No,Yes,Yes,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No
+0.22222222222222227,Male,United States,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.07407407407407407,Male,United States,No,Yes,Yes,Often,6-25,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,No,No,No,Maybe,Don't know,No
+0.27777777777777773,Male,United States,No,No,No,Don't know,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.24074074074074076,Male,United States,No,No,No,Don't know,100-500,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.25925925925925924,Male,United States,No,No,No,Never,1-5,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.18518518518518517,Male,Switzerland,No,No,No,Don't know,100-500,No,Yes,No,No,No,No,Don't know,Don't know,No,No,No,No,No,Maybe,Don't know,No
+0.16666666666666669,male-ish,United States,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.25925925925925924,maile,United States,No,Yes,No,Don't know,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No
+0.1111111111111111,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Yes,Yes,No,No
+0.14814814814814814,Male,United States,No,No,No,Don't know,26-100,No,No,No,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No
+0.27777777777777773,Male,Canada,No,Yes,Yes,Often,6-25,Yes,Yes,Don't know,No,No,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No
+0.48148148148148145,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Yes
+0.14814814814814814,Female,Poland,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No
+0.16666666666666669,Male,United Kingdom,No,No,No,Never,100-500,No,Yes,Yes,Not sure,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.14814814814814814,Male,France,No,No,No,Don't know,26-100,No,Yes,No,No,No,No,Don't know,Very easy,Yes,No,No,No,No,No,No,Yes
+0.3148148148148148,Male,Canada,No,No,No,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.4074074074074074,Male,United States,No,Yes,No,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,Yes
+0.09259259259259262,Female,Australia,No,Yes,Yes,Often,1-5,Yes,Yes,No,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.3333333333333333,Male,United States,No,No,No,Sometimes,100-500,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Yes,Yes,No
+0.24074074074074076,Female,United States,No,No,No,Don't know,26-100,Yes,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.2962962962962962,Male,United States,Yes,No,No,Rarely,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.18518518518518517,Male,France,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.2962962962962962,Male,Canada,No,No,No,Never,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.09259259259259262,trans-female,United States,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,Yes,Yes,No,No,No,No
+0.3703703703703704,Male,United Kingdom,No,No,No,Don't know,26-100,No,Yes,No,No,No,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No
+0.27777777777777773,Male,United States,No,No,No,Never,More than 1000,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No
+0.018518518518518545,Male,United Kingdom,No,No,No,Don't know,1-5,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No
+0.1296296296296296,Male,United States,No,No,No,Don't know,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No
+0.24074074074074076,Male,United States,Yes,Yes,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.25925925925925924,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Yes,No,No
+0.18518518518518517,Male,Germany,No,No,No,Never,6-25,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No
+0.3703703703703704,Male,United States,No,Yes,No,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,No,No,Yes,Some of them,Maybe,Maybe,Yes,No
+0.09259259259259262,Male,United Kingdom,No,No,No,Never,26-100,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.22222222222222227,Male,Canada,No,No,No,Never,26-100,No,No,No,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,No,No
+0.16666666666666669,cis female,United States,Yes,No,Yes,Often,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No
+0.27777777777777773,Male,United States,No,Yes,No,Never,More than 1000,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No
+0.24074074074074076,Male,United States,No,No,No,Don't know,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No
+0.3888888888888889,Male,United Kingdom,Yes,No,Yes,Often,6-25,No,Yes,No,No,No,No,Don't know,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,Yes
+0.2962962962962962,Female,United States,No,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.20370370370370366,Female,United States,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes
+0.25925925925925924,Male,United States,No,No,No,Don't know,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No
+0.24074074074074076,Male,United States,No,No,No,Never,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No
+0.4074074074074074,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,No,No
+0.2962962962962962,Male,United States,No,No,No,Don't know,26-100,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.0,something kinda male?,Russia,No,No,No,Don't know,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Don't know,No
+0.1296296296296296,Female,Canada,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No
+0.20370370370370366,Male,United States,No,No,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,No,No
+0.1111111111111111,Male,United States,No,Yes,No,Rarely,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No
+0.24074074074074076,Male,Mexico,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,No,No
+0.27777777777777773,cis male,United States,No,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No
+0.22222222222222227,Male,United States,No,No,Yes,Often,1-5,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.14814814814814814,Female,Canada,No,Yes,Yes,Sometimes,26-100,No,No,No,Yes,No,No,No,Very difficult,Yes,No,No,No,No,Maybe,No,Yes
+0.48148148148148145,Female,United States,No,No,No,Never,100-500,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No
+0.1296296296296296,Male,United States,No,Yes,No,Don't know,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.20370370370370366,Male,United States,No,No,No,Never,More than 1000,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.3148148148148148,Male,United States,No,Yes,No,Rarely,6-25,No,Yes,Yes,Not sure,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.3148148148148148,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No
+0.18518518518518517,Male,Brazil,No,Yes,Yes,Rarely,6-25,No,Yes,No,No,No,No,No,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,Yes
+0.2962962962962962,Male,United States,No,Yes,No,Never,6-25,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.25925925925925924,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,Yes,No,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,Yes,No
+0.07407407407407407,Male,United States,No,No,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Yes,No,No,No,No,Yes,No,No
+0.18518518518518517,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No
+0.49999999999999994,Male,United States,No,Yes,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No
+0.25925925925925924,Male,United States,No,No,No,Never,100-500,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.18518518518518517,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.14814814814814814,Male,United Kingdom,No,No,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,Yes
+0.055555555555555525,Male,United Kingdom,Yes,No,No,Often,1-5,Yes,No,No,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No
+0.16666666666666669,Male,Canada,No,No,No,Rarely,6-25,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.0,Male,United States,No,No,Yes,Rarely,1-5,Yes,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,No,No,No,Don't know,No
+0.3148148148148148,Male,United States,No,No,No,Don't know,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.20370370370370366,Male,United States,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No
+0.1296296296296296,Male,United States,No,No,No,Don't know,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,Don't know,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No
+0.3333333333333333,Male,United States,No,No,No,Often,6-25,No,Yes,Yes,No,No,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.16666666666666669,Male,Canada,No,No,Yes,Never,100-500,No,No,Yes,Not sure,No,No,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes
+0.16666666666666669,Male,United States,No,Yes,No,Never,500-1000,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,Yes,No,Some of them,No,No,Yes,Don't know,No
+0.16666666666666669,Male,United Kingdom,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No
+0.25925925925925924,Male,United States,No,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Yes,No,No,Yes,No,No,Don't know,No
+0.24074074074074076,Male,United Kingdom,No,Yes,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Yes,No
+0.018518518518518545,Male,Slovenia,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Yes,No,No
+0.25925925925925924,Male,United States,No,No,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Maybe,No,Yes,Some of them,No,Yes,Don't know,No
+0.16666666666666669,Male,United States,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.3703703703703704,Male,Costa Rica,No,No,No,Don't know,26-100,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,No,No
+0.1111111111111111,Male,Canada,No,No,Yes,Never,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No
+0.3888888888888889,Male,United Kingdom,No,No,No,Never,26-100,No,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No
+0.18518518518518517,Male,United Kingdom,No,No,No,Never,6-25,No,Yes,Don't know,No,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.3888888888888889,Male,United States,No,No,Yes,Often,More than 1000,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No
+0.20370370370370366,Female,United States,No,No,No,Don't know,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No
+0.07407407407407407,Male,Austria,No,No,No,Don't know,6-25,Yes,Yes,Don't know,No,Don't know,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No
+0.3703703703703704,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.3518518518518518,Male,United Kingdom,Yes,No,Yes,Sometimes,More than 1000,No,No,No,Yes,Yes,Yes,Yes,Very difficult,Yes,Yes,Some of them,No,No,Maybe,Yes,No
+0.3148148148148148,Male,United States,No,No,No,Never,26-100,Yes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No
+0.22222222222222227,Female,United States,No,Yes,No,Don't know,More than 1000,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No
+0.3518518518518518,Male,United States,No,Yes,Yes,Rarely,100-500,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.1111111111111111,Male,United Kingdom,No,No,No,Never,6-25,No,Yes,No,No,No,No,Yes,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No
+0.09259259259259262,Male,United States,No,No,No,Sometimes,6-25,No,No,No,No,No,No,No,Somewhat easy,Yes,Yes,No,No,No,No,No,No
+0.22222222222222227,Male,Ireland,No,No,Yes,Rarely,100-500,No,Yes,No,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,No,Yes
+0.20370370370370366,Female,United States,No,No,No,Don't know,100-500,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No
+0.018518518518518545,Male,Canada,Yes,Yes,No,Don't know,1-5,Yes,Yes,Don't know,Not sure,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.25925925925925924,Male,United States,No,Yes,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No
+0.18518518518518517,Male,Poland,No,No,No,Rarely,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No
+0.3333333333333333,Male,United States,No,No,No,Never,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.3518518518518518,Male,United Kingdom,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Yes,Maybe,Some of them,No,No,Yes,No,Yes
+0.1296296296296296,Male,United States,No,Yes,Yes,Sometimes,26-100,No,No,Don't know,No,No,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,No
+0.16666666666666669,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,No
+0.14814814814814814,Male,United States,No,No,No,Often,26-100,No,No,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,No,No
+0.16666666666666669,Male,United States,No,No,Yes,Rarely,26-100,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,Don't know,Yes
+0.1296296296296296,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Very easy,Maybe,No,Some of them,No,No,No,Don't know,Yes
+0.3333333333333333,Male,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes
+0.1296296296296296,Female,United States,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,No
+0.24074074074074076,Male,United States,No,No,No,Never,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No
+0.14814814814814814,Male,United States,No,Yes,No,Rarely,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.27777777777777773,Female,United States,Yes,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,Yes,Yes,Yes,Very difficult,No,No,Some of them,Yes,No,Yes,Yes,No
+0.16666666666666669,Female,United Kingdom,Yes,Yes,No,Don't know,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No
+0.2962962962962962,Male,United States,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.44444444444444436,Male,United States,No,No,No,Don't know,6-25,No,Yes,No,Yes,No,No,Don't know,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No
+0.09259259259259262,Male,Ireland,Yes,Yes,No,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No
+0.1111111111111111,Male,United Kingdom,No,No,No,Rarely,100-500,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No
+0.14814814814814814,Male,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No
+0.24074074074074076,Male,United Kingdom,Yes,No,Yes,Often,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No
+0.07407407407407407,Male,India,No,No,Yes,Never,More than 1000,No,Yes,Don't know,Not sure,No,No,Don't know,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No
+0.09259259259259262,Female,United States,No,No,No,Don't know,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No
+0.2962962962962962,Female,Canada,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,No,No
+0.24074074074074076,Male,United States,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No
+0.18518518518518517,Male,United Kingdom,No,No,No,Don't know,100-500,No,No,No,Not sure,No,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No
+0.25925925925925924,Female,United States,No,No,Yes,Often,6-25,Yes,Yes,Yes,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,Yes
+0.49999999999999994,Female,United States,No,No,Yes,Sometimes,1-5,No,Yes,Yes,No,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No
+0.27777777777777773,Male,United States,No,No,No,Don't know,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Don't know,No
+0.20370370370370366,Male,Mexico,No,No,No,Never,6-25,Yes,Yes,No,No,No,No,No,Don't know,Maybe,Maybe,No,Yes,Maybe,Yes,No,No
+0.14814814814814814,Female,India,Yes,No,No,Sometimes,6-25,No,No,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.18518518518518517,Female,United Kingdom,No,No,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.49999999999999994,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,No
+0.46296296296296297,Male,United States,No,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,Yes,Maybe,No,No,No,No,No,No
+0.3518518518518518,Male,United States,No,No,No,Don't know,500-1000,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Yes,No,Some of them,No,Maybe,Yes,No,No
+0.1111111111111111,Male,United Kingdom,No,No,No,Sometimes,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No
+0.14814814814814814,Male,France,No,No,No,Don't know,6-25,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,No,No,Maybe,Yes,No
+0.09259259259259262,Male,United Kingdom,No,Yes,No,Don't know,1-5,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No
+0.3148148148148148,Female,United States,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Yes,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No
+0.3703703703703704,Female,South Africa,Yes,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes
+0.18518518518518517,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,No,No
+0.18518518518518517,Male,Russia,No,No,No,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.3148148148148148,Male,United States,No,No,Yes,Rarely,6-25,No,Yes,No,No,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.25925925925925924,Female,Germany,No,No,No,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes
+0.24074074074074076,mal,Italy,Yes,Yes,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No
+0.3148148148148148,Female,United States,No,No,No,Never,500-1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No
+0.14814814814814814,Male,United States,No,No,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No
+0.16666666666666669,Male,United States,No,Yes,No,Don't know,6-25,Yes,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No
+0.18518518518518517,Male,United Kingdom,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No
+0.16666666666666669,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Yes,No
+0.2962962962962962,Female,United States,No,No,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No
+0.4259259259259259,Male,United States,No,No,Yes,Often,6-25,Yes,Yes,No,Not sure,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.3518518518518518,Male,Ireland,No,No,No,Sometimes,1-5,No,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,No,No,No,Yes,Don't know,No
+0.2962962962962962,Male,Austria,No,Yes,No,Don't know,100-500,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No
+0.25925925925925924,Male,United Kingdom,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes
+0.055555555555555525,Male,Canada,No,No,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No
+0.22222222222222227,Male,United States,No,No,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No
+0.1111111111111111,Male,United States,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.14814814814814814,Male,Bulgaria,No,No,No,Don't know,100-500,No,Yes,No,No,No,No,No,Very easy,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.4074074074074074,Female,United States,No,No,No,Don't know,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No
+0.3518518518518518,Male,United Kingdom,No,Yes,No,Sometimes,26-100,No,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,Don't know,No
+0.14814814814814814,Male,United Kingdom,Yes,No,Yes,Often,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No
+0.25925925925925924,Female,United States,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,No,No,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes
+0.25925925925925924,Female,United States,No,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Don't know,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,No
+0.16666666666666669,Female,United States,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Don't know,Don't know,Don't know,Very difficult,No,No,Some of them,No,No,No,Don't know,No
+0.22222222222222227,Male,Germany,Yes,No,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,No,Yes,Very difficult,No,No,Some of them,Yes,Maybe,Yes,Yes,No
+0.24074074074074076,Male,Canada,Yes,No,No,Don't know,6-25,No,Yes,Yes,Yes,No,Don't know,Yes,Very easy,No,No,Some of them,Some of them,No,No,Yes,No
+0.20370370370370366,Female,United States,No,No,Yes,Never,500-1000,No,No,Yes,No,No,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,No,No,No,Don't know,No
+0.4259259259259259,male (cis),United States,No,No,No,Don't know,26-100,No,Yes,Yes,Not sure,No,No,Don't know,Very easy,Yes,No,No,Some of them,No,No,Don't know,No
+0.2962962962962962,Female,United States,No,No,No,Don't know,6-25,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.27777777777777773,Male,United Kingdom,No,No,No,Don't know,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No
+0.18518518518518517,Male,United States,No,No,No,Rarely,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.18518518518518517,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,No,Yes,No,No,Yes,Very difficult,Yes,No,No,Some of them,No,No,No,No
+0.09259259259259262,Male,United States,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,No,Yes,No,Yes,Yes,No
+0.1111111111111111,Male,United States,No,No,No,Don't know,1-5,No,Yes,Don't know,No,Don't know,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No
+0.25925925925925924,Male,United States,No,No,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.2962962962962962,Male,Australia,Yes,No,No,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Yes,Yes,Don't know,Somewhat difficult,Yes,Yes,No,No,No,Maybe,Yes,No
+0.1111111111111111,Male,United States,No,No,No,Never,6-25,No,Yes,Yes,Not sure,No,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,Yes,No
+0.14814814814814814,Male,United Kingdom,Yes,No,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No
+0.3333333333333333,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,Yes,No,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes
+0.4259259259259259,Male,United States,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,Maybe,Maybe,No,No
+0.3703703703703704,Male,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No
+0.3703703703703704,Male,United States,No,No,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No
+0.22222222222222227,Male,Netherlands,No,No,No,Don't know,26-100,No,Yes,Don't know,No,Don't know,Don't know,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No
+0.1296296296296296,Male,United Kingdom,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No
+0.3518518518518518,Male,Canada,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No
+0.2962962962962962,Male,United Kingdom,No,Yes,No,Don't know,6-25,No,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Yes,No,Yes,No,Yes
+0.3518518518518518,Female,United States,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No
+0.18518518518518517,Female,Canada,No,Yes,Yes,Sometimes,6-25,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,No,Yes
+0.07407407407407407,Male,Sweden,No,No,No,Don't know,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No
+0.2962962962962962,Male,United States,No,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes
+0.27777777777777773,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.1296296296296296,Male,South Africa,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,No,No
+0.16666666666666669,Male,United States,No,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.4074074074074074,Male,United States,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Maybe,No,No,No,Maybe,No,Yes
+0.055555555555555525,Male,United States,No,No,Yes,Often,6-25,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No
+0.20370370370370366,Male,United Kingdom,No,No,No,Don't know,6-25,No,No,No,No,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No
+0.25925925925925924,Male,United States,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No
+0.20370370370370366,Female,United States,No,Yes,Yes,Rarely,500-1000,Yes,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No
+0.09259259259259262,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,No,No,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No
+0.18518518518518517,Male,United States,No,Yes,No,Don't know,100-500,No,Yes,Yes,No,No,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes
+0.24074074074074076,Male,United States,No,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.16666666666666669,Male,United Kingdom,No,No,No,Don't know,100-500,No,No,Don't know,Not sure,Don't know,Don't know,No,Very easy,Maybe,Maybe,Yes,Yes,No,No,Don't know,No
+0.1111111111111111,Male,United States,No,No,No,Sometimes,6-25,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.20370370370370366,Male,Canada,No,No,No,Often,6-25,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No
+0.09259259259259262,Female,United Kingdom,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No
+0.44444444444444436,Male,United States,No,No,No,Never,6-25,Yes,Yes,No,Yes,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No
+0.1111111111111111,Male,United Kingdom,No,No,No,Don't know,1-5,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No
+0.1296296296296296,Male,Australia,No,Yes,Yes,Often,6-25,No,Yes,No,Yes,No,No,No,Very difficult,Yes,Maybe,No,No,No,Yes,No,Yes
+0.16666666666666669,Female,United States,No,No,Yes,Rarely,6-25,No,Yes,Yes,No,No,No,Yes,Don't know,Maybe,Maybe,Yes,No,No,Maybe,Don't know,No
+0.16666666666666669,Male,Canada,No,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,Some of them,Some of them,No,Maybe,No,No
+0.22222222222222227,Male,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,No,Yes,No
+0.20370370370370366,Male,Poland,No,Yes,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,Some of them,Some of them,No,Yes,No,No
+0.46296296296296297,Male,Canada,Yes,No,No,Don't know,6-25,Yes,Yes,No,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,Yes,Yes,Don't know,No
+0.25925925925925924,Male,United States,No,No,No,Don't know,6-25,No,Yes,No,Yes,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.4259259259259259,Male,United States,No,No,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Don't know,No,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No
+0.25925925925925924,Male,United Kingdom,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,Don't know,Yes
+0.3518518518518518,Female,United States,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No
+0.25925925925925924,Male,United States,No,No,No,Never,6-25,Yes,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No
+0.22222222222222227,Male,Ireland,Yes,No,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No
+0.09259259259259262,Female,United States,No,Yes,Yes,Never,100-500,No,No,Yes,No,Don't know,Don't know,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.22222222222222227,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No
+0.2962962962962962,Male,United Kingdom,No,No,No,Sometimes,26-100,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,No,Don't know,No
+0.3703703703703704,Male,United States,No,No,Yes,Rarely,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No
+0.27777777777777773,Male,Canada,No,No,No,Don't know,100-500,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.2962962962962962,Male,United States,No,No,No,Don't know,26-100,No,No,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.18518518518518517,Male,Colombia,No,No,No,Sometimes,6-25,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Don't know,No
+0.18518518518518517,Male,United States,No,No,Yes,Rarely,100-500,No,No,Yes,Yes,Yes,Don't know,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Yes,No
+0.09259259259259262,Male,United States,No,Yes,No,Sometimes,100-500,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No
+0.07407407407407407,Male,Australia,Yes,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Not sure,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,No,Yes
+0.16666666666666669,Male,Portugal,No,No,No,Never,6-25,No,Yes,No,No,No,No,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No
+0.0,Male,United States,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No
+0.3148148148148148,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,Don't know,No
+0.1296296296296296,Male,Canada,No,No,No,Don't know,100-500,No,No,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,No,No
+0.16666666666666669,Male,United Kingdom,No,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,No
+0.14814814814814814,Female,United States,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.0,Male,United States,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No
+0.3703703703703704,Female,United States,No,No,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Don't know,Don't know,No,Maybe,Some of them,No,No,No,Don't know,Yes
+0.14814814814814814,Female,United States,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No
+0.22222222222222227,Male,Switzerland,Yes,No,No,Never,1-5,No,Yes,No,No,No,No,No,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No
+0.3148148148148148,Male,United States,No,No,No,Never,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.49999999999999994,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.25925925925925924,Male,United States,No,No,No,Never,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.7037037037037037,Male,United States,No,No,Yes,Never,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,Maybe,Yes,Some of them,No,Maybe,Don't know,No
+0.1111111111111111,Female,United States,No,No,No,Don't know,500-1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,No
+0.22222222222222227,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No
+0.7777777777777779,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Yes,No,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No
+0.3518518518518518,Male,United States,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.09259259259259262,Female,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No
+0.24074074074074076,Female,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No
+0.14814814814814814,Male,United States,No,No,No,Rarely,100-500,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.18518518518518517,Female,United States,No,Yes,Yes,Often,100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,No,Yes,No
+0.3518518518518518,Female,United States,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No
+0.14814814814814814,Male,Canada,No,Yes,Yes,Often,6-25,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Yes,No
+0.22222222222222227,queer/she/they,United States,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.14814814814814814,Male,United States,No,No,No,Don't know,26-100,No,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes
+0.1296296296296296,Male,United States,No,No,No,Don't know,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.16666666666666669,Male,United States,No,No,No,Sometimes,100-500,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No
+0.1296296296296296,Male,Canada,No,No,Yes,Often,6-25,Yes,No,Don't know,No,No,Don't know,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.3148148148148148,Male,United States,No,No,Yes,Rarely,100-500,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.3333333333333333,Male,United States,Yes,No,Yes,Never,1-5,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No
+0.14814814814814814,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,No,No,No
+0.16666666666666669,Male,United States,No,Yes,No,Don't know,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.22222222222222227,Male,United States,No,No,No,Don't know,6-25,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.20370370370370366,Male,United States,No,No,No,Don't know,100-500,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No
+0.1296296296296296,Male,United States,No,No,No,Never,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.07407407407407407,Female,United States,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,Yes
+0.20370370370370366,Male,Latvia,No,No,No,Don't know,26-100,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.4259259259259259,Male,United States,No,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.20370370370370366,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,No
+0.25925925925925924,Male,United States,No,No,No,Never,500-1000,No,Yes,Yes,Not sure,Don't know,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.1111111111111111,Female,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.1296296296296296,Male,United States,No,No,Yes,Rarely,6-25,No,Yes,Yes,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.1296296296296296,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No
+0.22222222222222227,Female,United States,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Don't know,No
+0.1296296296296296,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No
+0.22222222222222227,Male,United States,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.27777777777777773,Male,Germany,Yes,Yes,Yes,Rarely,1-5,No,No,No,No,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,Maybe,No,Yes,Yes
+0.1111111111111111,Male,United States,No,No,No,Don't know,26-100,No,Yes,Yes,Not sure,Yes,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No
+0.1296296296296296,Male,Canada,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No
+0.24074074074074076,Male,United States,No,No,No,Don't know,100-500,No,No,Don't know,No,No,No,Yes,Somewhat easy,Maybe,No,No,No,No,Yes,No,No
+0.49999999999999994,Male,Ireland,Yes,No,Yes,Often,1-5,No,Yes,No,No,No,No,Don't know,Very difficult,No,No,No,No,No,No,Don't know,No
+0.20370370370370366,Male,Romania,No,No,No,Don't know,6-25,Yes,No,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,No,No
+0.5185185185185186,Male,United States,No,No,No,Never,26-100,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.22222222222222227,Male,United Kingdom,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.20370370370370366,Female,United States,Yes,No,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.1111111111111111,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No
+0.20370370370370366,Male,United States,No,No,No,Don't know,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.3148148148148148,Male,United States,No,No,No,Don't know,26-100,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No
+0.27777777777777773,Female,United States,No,Yes,No,Sometimes,26-100,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No
+0.16666666666666669,Male,United States,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,Yes,No,No,No,No,Maybe,No,No
+0.3333333333333333,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.27777777777777773,Male,United Kingdom,No,No,No,Rarely,1-5,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No
+0.1296296296296296,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.09259259259259262,Male,United States,No,Yes,Yes,Sometimes,100-500,No,No,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,No
+0.6666666666666667,Male,United States,No,Yes,Yes,Never,More than 1000,No,Yes,Don't know,No,Yes,Yes,Don't know,Don't know,No,No,No,Yes,No,No,Don't know,No
+0.07407407407407407,Male,United States,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.1296296296296296,Other,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No
+0.20370370370370366,Male,Belgium,No,No,No,Often,6-25,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.16666666666666669,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,No,No,No,Yes,Yes,No
+0.22222222222222227,Male,United Kingdom,No,No,No,Never,6-25,No,Yes,No,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.14814814814814814,Male,United States,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.1296296296296296,Female,Sweden,No,Yes,No,Sometimes,6-25,No,Yes,Yes,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,No,No
+0.24074074074074076,Male,United States,No,No,Yes,Sometimes,500-1000,No,No,No,Yes,No,Don't know,Yes,Don't know,No,No,Some of them,No,No,No,No,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.2962962962962962,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Yes,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No
+0.2962962962962962,Male,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Yes,Yes,Some of them,Some of them,No,Maybe,Don't know,No
+0.20370370370370366,Male,United States,Yes,No,No,Don't know,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.27777777777777773,femake,United States,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.2962962962962962,Male,Germany,Yes,Yes,Yes,Rarely,26-100,Yes,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No
+0.14814814814814814,Male,United States,Yes,Yes,Yes,Rarely,100-500,Yes,No,No,No,No,Don't know,No,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No
+0.25925925925925924,Male,United States,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Yes,Yes,No
+0.18518518518518517,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,No,No,No
+0.3148148148148148,Male,United States,No,Yes,No,Don't know,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.3333333333333333,Male,United States,No,Yes,Yes,Often,100-500,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No
+0.055555555555555525,Male,United States,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,No,No,Don't know,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.055555555555555525,Male,United Kingdom,No,No,Yes,Sometimes,6-25,No,No,Don't know,Not sure,No,No,No,Very easy,Yes,No,Some of them,No,No,Maybe,No,No
+0.07407407407407407,Female,United States,No,No,No,Don't know,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Somewhat easy,No,No,No,Some of them,No,No,Yes,No
+0.4259259259259259,Male,United States,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes
+0.6851851851851851,Male,United States,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No
+0.25925925925925924,Female,United States,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No
+0.055555555555555525,Female,United States,No,Yes,Yes,Rarely,26-100,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Yes,Don't know,No
+0.49999999999999994,Male,United States,No,No,Yes,Never,26-100,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No
+0.16666666666666669,Female,United States,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,Maybe,No,No,No,No,No,No
+0.1296296296296296,Female,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No
+0.2962962962962962,Female,United States,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No
+0.14814814814814814,Female,United States,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.4259259259259259,Male,Canada,No,No,Yes,Never,500-1000,No,Yes,Yes,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No
+0.16666666666666669,Male,United States,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.24074074074074076,make,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No
+0.1296296296296296,Male,Germany,No,Yes,Yes,Often,26-100,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Yes,No,No
+0.14814814814814814,Male,United States,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No
+0.16666666666666669,Female,United States,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,No,Yes,No,No,Don't know,No
+0.44444444444444436,Male,New Zealand,No,No,No,Never,500-1000,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.20370370370370366,nah,United States,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,No,No,Don't know,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No
+0.1296296296296296,Female,United States,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No
+0.27777777777777773,Female,Sweden,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Yes,Don't know,No
+0.4074074074074074,Female,United States,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Don't know,No
+0.24074074074074076,Male,United States,No,No,No,Never,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,Don't know,No
+0.14814814814814814,Male,Canada,No,Yes,Yes,Often,26-100,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No
+0.1111111111111111,Female,United States,No,Yes,No,Don't know,500-1000,No,No,No,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes
+0.20370370370370366,Male,United States,No,No,No,Never,More than 1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.5555555555555556,Male,United Kingdom,No,No,No,Don't know,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No
+0.3148148148148148,Male,United Kingdom,No,No,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes
+0.25925925925925924,Female,United States,No,No,No,Never,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No
+0.20370370370370366,Male,Canada,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No
+0.14814814814814814,Male,United States,No,Yes,Yes,Often,6-25,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,No,No
+0.18518518518518517,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No
+0.09259259259259262,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,No
+0.3148148148148148,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes
+0.20370370370370366,Male,Germany,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.14814814814814814,Male,United States,No,Yes,No,Don't know,6-25,No,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,No,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Never,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Maybe,Yes,Some of them,No,No,Yes,No
+0.27777777777777773,Male,United States,No,No,No,Don't know,More than 1000,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No
+0.07407407407407407,Male,Brazil,Yes,No,No,Never,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,No,Don't know,No
+0.22222222222222227,Female,Spain,No,Yes,No,Don't know,500-1000,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Yes,No,No,No,No,No,No,No
+0.24074074074074076,Female,United States,No,Yes,Yes,Rarely,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No
+0.055555555555555525,Male,United States,No,Yes,No,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,Yes
+0.24074074074074076,enby,United Kingdom,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Yes,Yes,No
+0.14814814814814814,Female,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No
+0.22222222222222227,Male,United States,No,Yes,No,Often,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.22222222222222227,fluid,Germany,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,No,No
+0.09259259259259262,Male,India,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No
+0.2962962962962962,Male,Finland,No,No,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Don't know,No
+0.6851851851851851,Male,United States,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,Yes
+0.18518518518518517,Male,Germany,No,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,No,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No
+0.14814814814814814,Male,Uruguay,No,No,No,Don't know,26-100,Yes,Yes,Don't know,No,Don't know,No,Don't know,Don't know,No,No,Some of them,No,No,Yes,Don't know,No
+0.18518518518518517,Male,New Zealand,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,Yes,No,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No
+0.25925925925925924,Male,United Kingdom,No,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.18518518518518517,Female,United States,No,No,Yes,Rarely,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.055555555555555525,Male,United States,No,No,No,Sometimes,6-25,No,No,Don't know,Not sure,No,Yes,Yes,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No
+0.1111111111111111,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,No,Yes
+0.14814814814814814,Female,United States,No,No,No,Don't know,More than 1000,No,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.09259259259259262,Male,United States,No,No,No,Don't know,More than 1000,No,No,Yes,No,No,No,Don't know,Don't know,No,No,Yes,No,No,Yes,Don't know,No
+0.1111111111111111,Female,United States,No,No,No,Don't know,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Yes,No
+0.18518518518518517,Male,Canada,Yes,No,No,Never,100-500,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No
+0.1111111111111111,Female,United States,No,Yes,Yes,Rarely,6-25,No,Yes,No,No,No,No,Don't know,Very easy,Yes,No,No,Some of them,No,Yes,Yes,No
+0.27777777777777773,Male,United States,Yes,No,Yes,Often,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Yes,Yes,Don't know,No
+0.2962962962962962,Male,United States,No,No,No,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Maybe,Don't know,No
+0.16666666666666669,Female,United States,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.18518518518518517,Male,United States,No,No,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.14814814814814814,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Yes
+0.037037037037037035,Male,Australia,No,No,No,Don't know,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.09259259259259262,Female,United States,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.20370370370370366,Male,United States,No,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.14814814814814814,Male,United Kingdom,No,Yes,No,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No
+0.3333333333333333,Male,United States,No,No,No,Rarely,More than 1000,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No
+0.4259259259259259,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,Yes
+0.27777777777777773,Female,United States,No,No,No,Don't know,100-500,Yes,Yes,Yes,No,Don't know,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No
+0.09259259259259262,Male,Canada,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No
+0.3888888888888889,Male,United States,No,Yes,No,Often,More than 1000,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes
+0.2962962962962962,Male,United States,No,Yes,No,Don't know,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes
+0.14814814814814814,Female,United States,No,No,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes
+0.1111111111111111,Male,United States,No,No,Yes,Rarely,26-100,No,Yes,Yes,Yes,Yes,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.3518518518518518,Male,Canada,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.46296296296296297,Male,United States,Yes,Yes,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.4074074074074074,Other,United States,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Yes,No
+0.22222222222222227,Male,United States,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,No,Don't know,Very difficult,Yes,No,Some of them,No,No,No,No,Yes
+0.2962962962962962,Male,United States,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,Don't know,No
+0.16666666666666669,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No
+0.3333333333333333,Male,United States,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No
+0.16666666666666669,Male,Brazil,No,No,No,Rarely,6-25,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No
+0.3148148148148148,Male,Netherlands,No,Yes,No,Never,100-500,No,Yes,Yes,No,No,No,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No
+0.25925925925925924,Male,United Kingdom,No,No,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,Yes,No
+0.3518518518518518,Male,United States,No,No,No,Don't know,500-1000,No,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.20370370370370366,Male,United Kingdom,No,No,No,Don't know,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.27777777777777773,Female,United States,No,No,No,Never,500-1000,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Very easy,Maybe,No,Some of them,Yes,No,No,Yes,No
+0.18518518518518517,make,United States,No,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No
+0.14814814814814814,Female,United States,No,Yes,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,Maybe,No,No
+0.16666666666666669,Male,United States,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,Yes,No
+0.3703703703703704,Male,United Kingdom,Yes,No,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No
+0.7222222222222223,Male,United States,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No
+0.18518518518518517,Male,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,Yes,No,No,No,No,No,Very difficult,Yes,Maybe,No,Some of them,No,Maybe,No,No
+0.14814814814814814,Male,France,No,No,No,Never,6-25,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,No,No
+0.44444444444444436,Female,Netherlands,No,No,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No
+0.24074074074074076,Male,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No
+0.7407407407407407,Male,United States,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Yes,No
+0.20370370370370366,Male,United States,No,No,No,Sometimes,6-25,No,Yes,Don't know,No,No,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No
+0.3888888888888889,Female,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes
+0.2962962962962962,Male,United States,No,No,No,Sometimes,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No
+0.7222222222222223,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No
+0.16666666666666669,Male,Germany,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes
+0.09259259259259262,Male,Germany,Yes,Yes,Yes,Often,26-100,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,Maybe,Yes,Yes,Maybe,Yes,Don't know,No
+0.0,Male,Finland,No,No,No,Don't know,500-1000,Yes,No,Don't know,No,No,Don't know,Don't know,Very easy,Yes,No,No,No,No,Maybe,Don't know,No
+0.22222222222222227,Female,United States,No,No,No,Don't know,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No
+0.09259259259259262,Male,United States,No,No,No,Never,26-100,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No
+0.46296296296296297,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Yes,Don't know,No
+0.0,Female,United Kingdom,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.20370370370370366,Male,United States,No,No,Yes,Rarely,6-25,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.5555555555555556,Male,United States,No,No,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No
+0.46296296296296297,Male,Germany,No,No,Yes,Sometimes,26-100,No,No,No,Yes,Don't know,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,No,Yes
+0.18518518518518517,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No
+0.22222222222222227,Male,United States,Yes,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No
+0.14814814814814814,Male,Israel,No,No,No,Sometimes,6-25,No,Yes,No,No,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No
+0.27777777777777773,Male,Italy,No,No,No,Never,6-25,No,No,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No
+0.24074074074074076,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Yes,Don't know,No,No,No,Some of them,No,No,Yes,No
+0.22222222222222227,Male,United States,No,No,No,Rarely,100-500,No,No,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No
+0.16666666666666669,Male,Israel,No,No,No,Don't know,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes
+0.1111111111111111,Female,United States,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes
+0.1296296296296296,Male,United States,No,No,No,Don't know,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.09259259259259262,Female,United States,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Not sure,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Yes
+0.3333333333333333,Male,United States,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes
+0.1296296296296296,Female,United States,Yes,Yes,Yes,Often,1-5,Yes,Yes,Don't know,Not sure,No,No,Yes,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes
+0.6666666666666667,Male,United Kingdom,No,No,Yes,Sometimes,More than 1000,Yes,No,No,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,No,No
+0.2962962962962962,Male,Netherlands,No,No,No,Rarely,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No
+0.3703703703703704,Female,United States,No,No,Yes,Don't know,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Maybe,No,No,No,No,No,No
+0.4074074074074074,Male,Ireland,Yes,Yes,No,Don't know,More than 1000,No,Yes,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Yes
+0.25925925925925924,Male,United Kingdom,No,No,No,Don't know,26-100,No,Yes,No,Not sure,No,Don't know,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,No
+0.1296296296296296,Male,Germany,No,No,No,Never,More than 1000,No,No,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No
+0.3148148148148148,Female,United States,No,No,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No
+0.5185185185185186,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,No
+0.44444444444444436,Male,United States,No,No,No,Never,100-500,No,No,Yes,No,Yes,No,Don't know,Very difficult,Maybe,No,Yes,Yes,Maybe,Yes,No,No
+0.25925925925925924,Male,United Kingdom,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.537037037037037,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Yes,Yes,No
+0.07407407407407407,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Yes,Not sure,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.27777777777777773,Female,United States,No,No,Yes,Sometimes,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No
+0.1296296296296296,Female,United States,No,No,No,Sometimes,6-25,No,Yes,No,No,No,No,No,Somewhat easy,Maybe,No,Some of them,No,No,No,Yes,No
+0.20370370370370366,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No
+0.3888888888888889,Male,United States,No,No,No,Never,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No
+0.3703703703703704,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,Yes,No,No,No,No,No,No,No
+0.46296296296296297,Male,United States,No,No,No,Don't know,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.5185185185185186,Male,United States,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.3703703703703704,Female,United States,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Yes,Yes,No,No,No,Yes
+0.27777777777777773,Male,Germany,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,No,No
+0.2962962962962962,Male,United Kingdom,No,Yes,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,No,No
+0.8148148148148149,Male,United States,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.09259259259259262,Female,United States,No,No,No,Don't know,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.3148148148148148,Male,United States,No,No,No,Don't know,More than 1000,No,No,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No
+0.1296296296296296,Male,Bosnia and Herzegovina,No,Yes,No,Rarely,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Yes,No,No,No,No,Don't know,Yes
+0.3333333333333333,Male,United States,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Yes,Don't know,No,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,Yes,No
+0.4259259259259259,Female,United States,No,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No
+0.1111111111111111,Male,Austria,Yes,No,No,Sometimes,1-5,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No
+0.6111111111111112,Male,New Zealand,No,No,Yes,Sometimes,26-100,Yes,Yes,No,Yes,Yes,No,No,Somewhat difficult,Yes,Yes,No,No,No,No,Don't know,Yes
+0.20370370370370366,Male,United States,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,No,Some of them,No,No,Yes,No
+0.24074074074074076,Female,Canada,Yes,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Yes,No
+0.16666666666666669,Male,United Kingdom,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,No
+0.24074074074074076,Male,Australia,No,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Yes,Yes,No,No
+0.16666666666666669,Female,Hungary,Yes,Yes,No,Sometimes,1-5,Yes,Yes,No,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No
+0.09259259259259262,Male,Sweden,No,No,No,Rarely,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.055555555555555525,Male,Canada,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.16666666666666669,Female,Australia,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,No
+0.3888888888888889,Male,United States,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,No,Some of them,Yes,No,No,No,No
+0.14814814814814814,Male,United States,No,Yes,Yes,Never,More than 1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,No,No
+0.16666666666666669,Male,United Kingdom,No,No,No,Never,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.07407407407407407,Female,United States,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,No,Yes
+0.14814814814814814,Female,United States,No,Yes,Yes,Often,100-500,No,No,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No
+0.24074074074074076,Female,United States,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No
+0.25925925925925924,Male,United Kingdom,No,No,No,Never,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,No
+0.18518518518518517,Female,United States,No,Yes,Yes,Often,100-500,Yes,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,No,Yes
+0.18518518518518517,androgyne,United Kingdom,No,Yes,Yes,Rarely,100-500,No,Yes,No,Not sure,No,No,Yes,Somewhat difficult,Yes,Yes,Some of them,Some of them,Yes,No,No,Yes
+0.09259259259259262,Female,United Kingdom,No,No,No,Don't know,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Very easy,Maybe,No,No,Some of them,No,Yes,Yes,No
+0.22222222222222227,Male,United Kingdom,No,No,No,Never,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.3333333333333333,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Somewhat difficult,Yes,No,Some of them,Yes,No,Yes,No,No
+0.055555555555555525,Male,United States,No,Yes,No,Don't know,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.22222222222222227,Male,Germany,No,No,No,Often,26-100,No,Yes,No,No,Don't know,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No
+0.1296296296296296,Female,United States,No,Yes,No,Don't know,500-1000,No,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.25925925925925924,Male,New Zealand,No,No,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No
+0.20370370370370366,Female,Canada,No,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No
+0.055555555555555525,Other,United Kingdom,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Yes,No
+0.16666666666666669,Female,New Zealand,No,Yes,Yes,Rarely,100-500,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No
+0.25925925925925924,Female,Canada,No,No,Yes,Often,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.2962962962962962,Male,Australia,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.27777777777777773,Male,United States,No,No,No,Don't know,26-100,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No
+0.07407407407407407,Male,Netherlands,No,Yes,Yes,Sometimes,6-25,Yes,Yes,No,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No
+0.1111111111111111,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No
+0.8703703703703705,Male,United States,Yes,No,No,Don't know,6-25,Yes,No,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,No,No,No,Yes,No
+0.16666666666666669,Male,United States,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,No,No,No,Yes,No
+0.27777777777777773,Male,Australia,No,No,No,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No
+0.3333333333333333,Male,United States,No,No,Yes,Rarely,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No
+0.4074074074074074,Male,Canada,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,No,No,No
+0.18518518518518517,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,No,No
+0.3888888888888889,Male,United States,No,No,Yes,Sometimes,500-1000,No,Yes,Yes,Not sure,Yes,Don't know,Yes,Don't know,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No
+0.25925925925925924,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Don't know,Somewhat easy,No,No,Yes,Some of them,Maybe,Yes,Don't know,No
+0.24074074074074076,Male,United States,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,Yes,No,No
+0.3703703703703704,make,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No
+0.09259259259259262,Male,United States,No,Yes,Yes,Rarely,1-5,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No
+0.44444444444444436,make,United States,No,No,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No
+0.16666666666666669,Female,United States,No,No,No,Sometimes,500-1000,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No
+0.14814814814814814,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,No,Yes
+0.5925925925925926,Male,United States,No,No,No,Never,26-100,Yes,Yes,No,Yes,No,No,Don't know,Don't know,No,No,No,No,No,Maybe,No,No
+0.3518518518518518,Male,United States,No,Yes,No,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No
+0.09259259259259262,Male,United States,No,No,No,Don't know,26-100,No,Yes,Don't know,No,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No
+0.27777777777777773,Male,United States,No,Yes,No,Sometimes,6-25,Yes,Yes,Don't know,Not sure,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No
+0.20370370370370366,Male,Canada,Yes,No,No,Never,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,No,No,Yes,No,No
+0.2962962962962962,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,No,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.4259259259259259,Male,United States,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Yes
+0.5925925925925926,Male,United States,No,Yes,No,Don't know,100-500,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.20370370370370366,Male,Canada,No,No,Yes,Never,More than 1000,No,No,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,Don't know,Yes
+0.3148148148148148,Male,United States,No,No,No,Never,6-25,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.16666666666666669,Male,Singapore,No,No,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Don't know,Yes,No,Some of them,Yes,No,No,No,No
+0.4074074074074074,Female,United States,No,No,No,Never,26-100,No,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No
+0.16666666666666669,Male,Australia,No,No,Yes,Often,100-500,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes
+0.20370370370370366,Female,United States,No,No,No,Never,26-100,No,Yes,Yes,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes
+0.24074074074074076,Male,United States,No,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No
+0.46296296296296297,Male,United States,No,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Don't know,No
+0.2962962962962962,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes
+0.20370370370370366,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.018518518518518545,Male,Canada,No,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No
+0.4259259259259259,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No
+0.20370370370370366,Male,United States,No,Yes,No,Never,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.09259259259259262,Male,United States,No,No,No,Rarely,100-500,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No
+0.1111111111111111,Female,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes
+0.24074074074074076,Male,United States,No,No,No,Don't know,26-100,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No
+0.46296296296296297,Male,United States,No,No,No,Don't know,500-1000,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No
+0.24074074074074076,Male,United States,No,Yes,Yes,Rarely,100-500,No,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,No,No,Yes
+0.20370370370370366,Male,United States,No,Yes,No,Often,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.3148148148148148,Male,United States,Yes,Yes,No,Don't know,6-25,Yes,Yes,No,No,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Not sure,No,No,Yes,Somewhat difficult,Yes,Yes,No,No,No,No,No,No
+0.22222222222222227,cis-female/femme,United States,Yes,Yes,Yes,Often,1-5,Yes,No,No,Yes,No,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No
+0.16666666666666669,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Yes,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No
+0.25925925925925924,Male,United States,No,No,No,Sometimes,100-500,No,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No
+0.5925925925925926,Male,United States,No,No,No,Sometimes,1-5,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No
+0.1111111111111111,Male,United States,No,No,No,Never,26-100,No,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Yes,Some of them,No,No,Maybe,No,No
+0.16666666666666669,Male,United States,No,No,No,Don't know,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No
+0.16666666666666669,Male,Australia,No,No,No,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No
+0.25925925925925924,Male,United States,No,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.44444444444444436,Male,United States,Yes,No,No,Rarely,6-25,Yes,No,No,Yes,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.3518518518518518,Male,United States,No,No,No,Often,More than 1000,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No
+0.22222222222222227,Male,Singapore,No,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Yes,No,Yes
+0.20370370370370366,Male,United States,No,No,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Don't know,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No
+0.22222222222222227,Male,United States,Yes,No,Yes,Often,6-25,Yes,Yes,No,Not sure,No,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No
+0.3148148148148148,Male,United States,No,No,No,Never,26-100,No,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No
+0.3148148148148148,Male,United States,No,Yes,Yes,Rarely,100-500,Yes,No,Yes,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No
+0.3703703703703704,Male,Netherlands,No,Yes,No,Often,26-100,Yes,Yes,No,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.07407407407407407,Male,United Kingdom,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No
+0.1111111111111111,Male,Germany,No,Yes,No,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.07407407407407407,Male,Netherlands,Yes,No,No,Never,1-5,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,No,Yes
+0.24074074074074076,Female,United States,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No
+0.09259259259259262,Female,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,No
+0.24074074074074076,Female,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No
+0.18518518518518517,Female,United States,No,Yes,Yes,Rarely,500-1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,No,Some of them,No,No,No,No
+0.3518518518518518,guy (-ish) ^_^,Canada,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No
+0.2962962962962962,Male,United States,Yes,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,No,No
+0.25925925925925924,male leaning androgynous,Canada,No,No,No,Sometimes,26-100,Yes,Yes,No,Yes,No,No,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes
+0.18518518518518517,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,Don't know,Yes
+0.1111111111111111,Female,United Kingdom,No,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No
+0.7037037037037037,Male,United States,No,Yes,Yes,Rarely,6-25,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.24074074074074076,Male,Germany,No,No,No,Sometimes,6-25,Yes,Yes,No,No,No,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.2962962962962962,Female,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No
+0.3148148148148148,Male,Germany,No,No,Yes,Rarely,100-500,No,No,Don't know,No,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Yes,No
+0.18518518518518517,Male,Germany,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Don't know,No
+0.3333333333333333,Male,Poland,Yes,Yes,Yes,Often,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,Yes
+0.22222222222222227,Male,United Kingdom,No,No,Yes,Often,26-100,No,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.3148148148148148,Male,United States,Yes,No,No,Don't know,1-5,Yes,Yes,Yes,Not sure,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No
+0.574074074074074,Male,Japan,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Yes,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes
+0.3333333333333333,Male,Germany,No,No,No,Don't know,26-100,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.3148148148148148,Male,Germany,No,No,No,Don't know,26-100,No,Yes,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.20370370370370366,Female,Australia,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,Yes
+0.7222222222222223,Male,United States,No,No,No,Never,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,Don't know,Yes
+0.24074074074074076,Female,Belgium,No,Yes,Yes,Rarely,100-500,No,No,Yes,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Yes
+0.3518518518518518,Male,Ireland,Yes,No,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.1296296296296296,Male,Ireland,No,Yes,Yes,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No
+0.22222222222222227,Male,Australia,No,No,No,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No
+0.14814814814814814,Female,Australia,No,Yes,No,Sometimes,100-500,No,No,No,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No
+0.07407407407407407,Female,Netherlands,No,No,No,Often,6-25,No,Yes,No,No,No,No,Don't know,Don't know,No,No,No,Some of them,No,Yes,Don't know,No
+0.3888888888888889,Male,United States,No,No,No,Rarely,More than 1000,Yes,No,Don't know,No,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.20370370370370366,Male,United Kingdom,No,Yes,Yes,Never,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No
+0.6666666666666667,Male,United Kingdom,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Yes,Yes,Yes,Don't know,Yes
+0.2962962962962962,Female,Australia,No,Yes,No,Never,500-1000,No,No,Don't know,No,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,Yes
+0.25925925925925924,Male,United States,No,No,Yes,Never,500-1000,No,No,Yes,Not sure,Yes,Yes,Don't know,Very easy,Maybe,No,No,No,No,No,Yes,No
+0.1296296296296296,Male,Nigeria,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No
+0.20370370370370366,Male,Poland,No,No,No,Rarely,1-5,No,Yes,No,No,No,No,No,Somewhat difficult,No,Maybe,Some of them,No,No,No,Yes,No
+0.25925925925925924,Male,Germany,Yes,No,No,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.22222222222222227,Male,United Kingdom,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Maybe,No,Some of them,Yes,No,Yes,Yes,No
+0.24074074074074076,Male,Germany,No,No,No,Don't know,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.037037037037037035,Female,Switzerland,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No
+0.16666666666666669,Male,United Kingdom,No,No,No,Never,1-5,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.25925925925925924,Male,United States,No,No,No,Never,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.14814814814814814,Male,Ireland,Yes,No,No,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.22222222222222227,Male,Italy,No,No,No,Sometimes,More than 1000,No,No,Don't know,No,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No
+0.22222222222222227,Male,Ireland,No,No,Yes,Sometimes,26-100,Yes,Yes,No,No,Don't know,No,Don't know,Very difficult,Maybe,Maybe,Some of them,No,No,No,No,No
+0.07407407407407407,Male,India,Yes,No,No,Don't know,1-5,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Yes,Yes
+0.1111111111111111,Male,Ireland,No,No,No,Don't know,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,No,No,No,No,Don't know,No
+0.14814814814814814,Male,Netherlands,No,No,No,Never,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No
+0.46296296296296297,Male,France,No,No,No,Don't know,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.14814814814814814,Male,Russia,No,No,No,Never,26-100,No,Yes,No,Not sure,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,No,No,Maybe,Don't know,No
+0.09259259259259262,Male,United States,No,Yes,No,Sometimes,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No
+0.14814814814814814,Male,Canada,No,No,No,Don't know,100-500,Yes,Yes,Yes,Not sure,Don't know,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No
+0.14814814814814814,Female,Israel,No,Yes,No,Never,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,No
+0.3148148148148148,Male,Canada,No,Yes,No,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No
+0.18518518518518517,Male,United States,No,No,Yes,Sometimes,26-100,Yes,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.07407407407407407,Male,India,No,No,No,Don't know,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.20370370370370366,Female,United States,No,Yes,Yes,Rarely,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No
+0.20370370370370366,Male,Germany,Yes,No,No,Don't know,1-5,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No
+0.49999999999999994,Male,United States,No,No,Yes,Often,1-5,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No
+0.27777777777777773,Male,Bulgaria,No,No,Yes,Rarely,26-100,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes
+0.3703703703703704,Male,United States,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.018518518518518545,trans woman,United States,No,Yes,Yes,Often,26-100,No,No,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,Maybe,No,No
+0.20370370370370366,Female,Canada,No,No,Yes,Rarely,More than 1000,Yes,No,Yes,Yes,Yes,Don't know,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,Don't know,No
+0.055555555555555525,Female,United Kingdom,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No
+0.09259259259259262,Female,India,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No
+0.27777777777777773,Female,United States,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No
+0.574074074074074,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Yes,No
+0.18518518518518517,Male,United States,No,No,No,Don't know,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.16666666666666669,Female,United Kingdom,No,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,Not sure,Yes,Don't know,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.09259259259259262,Male,Canada,No,No,Yes,Sometimes,6-25,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.20370370370370366,Male,Netherlands,No,No,No,Never,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No
+0.22222222222222227,Male,Germany,No,No,No,Don't know,26-100,No,Yes,Don't know,No,No,Don't know,Yes,Somewhat easy,No,No,Some of them,No,Maybe,Maybe,Don't know,No
+0.18518518518518517,Female,Canada,No,No,No,Don't know,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.25925925925925924,Male,United Kingdom,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Yes,No,No
+0.25925925925925924,Male,United Kingdom,No,No,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Yes,Very easy,No,No,No,Yes,No,No,Yes,No
+0.3518518518518518,Male,France,No,No,No,Don't know,100-500,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No
+0.3888888888888889,Female,United States,No,No,No,Don't know,More than 1000,Yes,No,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No
+0.24074074074074076,Male,France,No,No,No,Don't know,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,No
+0.20370370370370366,Male,United States,No,No,No,Don't know,6-25,No,Yes,No,No,No,Don't know,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No
+0.22222222222222227,Male,United States,No,No,No,Don't know,100-500,No,No,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.27777777777777773,Male,United States,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,Yes,Yes,No,Very difficult,No,No,Yes,Yes,No,No,Yes,Yes
+0.3518518518518518,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No
+0.09259259259259262,Male,United States,No,No,Yes,Often,26-100,No,No,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.46296296296296297,Male,United States,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Not sure,No,Yes,Don't know,Somewhat easy,Yes,No,No,No,No,No,No,No
+0.25925925925925924,Male,United Kingdom,No,No,Yes,Rarely,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Maybe,No,Yes
+0.14814814814814814,Male,United States,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No
+0.25925925925925924,Male,United States,Yes,No,Yes,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No
+0.3518518518518518,Female,United States,No,No,No,Don't know,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,No
+0.20370370370370366,Male,United States,No,No,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.2962962962962962,Male,United Kingdom,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,No
+0.16666666666666669,Male,France,No,No,No,Don't know,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No
+0.22222222222222227,Male,United States,No,Yes,No,Never,100-500,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.20370370370370366,Male,United States,No,No,No,Never,6-25,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No
+0.25925925925925924,Male,United States,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,No,No
+0.1296296296296296,Male,Germany,No,No,No,Don't know,500-1000,No,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,Yes,Yes,Yes,No
+0.3518518518518518,Male,United States,Yes,No,No,Don't know,6-25,Yes,Yes,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.20370370370370366,Male,Netherlands,No,Yes,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.16666666666666669,Male,United States,No,No,No,Don't know,26-100,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No
+0.27777777777777773,Male,United Kingdom,No,No,No,Don't know,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.22222222222222227,Male,Canada,No,Yes,Yes,Sometimes,More than 1000,No,No,Don't know,No,No,No,No,Very difficult,Yes,No,Some of them,No,No,Yes,No,Yes
+0.20370370370370366,Male,Canada,No,No,No,Don't know,1-5,Yes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Yes,Yes,No,Maybe,Don't know,No
+0.1296296296296296,Male,United States,No,Yes,Yes,Never,6-25,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,No,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Sometimes,1-5,No,No,No,Yes,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.24074074074074076,Male,South Africa,No,No,No,Never,100-500,Yes,Yes,No,No,No,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No
+0.055555555555555525,Male,Germany,No,No,No,Rarely,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No
+0.22222222222222227,Male,Switzerland,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No
+0.20370370370370366,Male,United States,No,No,No,Don't know,More than 1000,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No
+0.46296296296296297,Male,Croatia,Yes,No,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Very difficult,Yes,No,Yes,No,No,Maybe,No,Yes
+0.3518518518518518,Male,United Kingdom,No,No,Yes,Often,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,Yes,Yes,Maybe,Yes,No,No
+0.1111111111111111,Male,France,No,No,No,Don't know,26-100,No,Yes,No,No,Yes,No,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No
+0.20370370370370366,Male,United States,No,No,No,Don't know,6-25,Yes,Yes,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No
+0.24074074074074076,Male,United States,No,No,No,Don't know,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,No,No,Don't know,No
+0.27777777777777773,Male,United Kingdom,Yes,No,No,Never,100-500,No,No,No,Not sure,No,No,Don't know,Very easy,No,No,Yes,Some of them,No,Yes,No,No
+0.46296296296296297,Male,United States,No,No,No,Don't know,More than 1000,No,No,Yes,Yes,Don't know,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.27777777777777773,Male,United Kingdom,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.16666666666666669,Male,United Kingdom,No,No,No,Don't know,6-25,No,Yes,No,No,No,Yes,Yes,Don't know,Maybe,No,Yes,Some of them,No,Yes,Yes,No
+0.3333333333333333,Male,United States,No,Yes,Yes,Sometimes,More than 1000,Yes,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.3518518518518518,Male,Australia,No,Yes,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes
+0.25925925925925924,Male,Belgium,No,No,No,Don't know,6-25,No,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,No,No,No,No,No,No
+0.3888888888888889,Male,United Kingdom,No,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Very easy,No,No,No,Some of them,No,Yes,Yes,No
+0.24074074074074076,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No
+0.3333333333333333,Male,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.22222222222222227,Male,United States,Yes,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,Don't know,No
+0.18518518518518517,Male,Canada,No,No,No,Don't know,6-25,No,Yes,Yes,Not sure,No,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.25925925925925924,Male,Italy,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,No,Somewhat difficult,Maybe,No,Some of them,No,Maybe,Maybe,No,No
+0.3148148148148148,Male,United States,No,Yes,Yes,Rarely,6-25,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No
+0.018518518518518545,Male,Canada,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,Yes,Don't know,No
+0.27777777777777773,Male,Norway,No,Yes,No,Don't know,26-100,No,Yes,Yes,Yes,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.44444444444444436,Male,Germany,No,No,No,Don't know,More than 1000,Yes,Yes,Don't know,Not sure,Yes,Yes,Yes,Very easy,No,No,Some of them,No,No,Maybe,Yes,No
+0.3518518518518518,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.4074074074074074,Male,Thailand,Yes,No,No,Never,6-25,No,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.3333333333333333,Male,United States,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No
+0.20370370370370366,Female,United States,No,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No
+0.3703703703703704,Female,United States,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.14814814814814814,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No
+0.2962962962962962,Male,Germany,No,No,No,Rarely,26-100,No,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,Maybe,Maybe,Yes,No
+0.055555555555555525,Male,United States,No,No,Yes,Often,More than 1000,No,No,No,Yes,No,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,Yes
+0.24074074074074076,Male,Canada,Yes,Yes,No,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,No,No,No,No,Yes,No
+0.3518518518518518,Female,United States,No,Yes,Yes,Rarely,26-100,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,No,Maybe,Yes,No
+0.3518518518518518,Male,Ireland,No,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.3703703703703704,Male,Ireland,No,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No
+0.16666666666666669,Female,United States,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,No
+0.3888888888888889,Male,Netherlands,Yes,No,No,Don't know,6-25,No,Yes,No,No,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.27777777777777773,Female,United States,Yes,Yes,Yes,Sometimes,1-5,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,Some of them,No,No,No,No,No
+0.16666666666666669,Male,United Kingdom,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,No,Yes,Yes,Don't know,No
+0.3333333333333333,Female,United States,No,No,Yes,Never,6-25,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No
+0.18518518518518517,Male,United Kingdom,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No
+0.3888888888888889,Male,United Kingdom,No,No,Yes,Sometimes,500-1000,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.27777777777777773,Male,United States,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,Yes,No
+0.25925925925925924,Male,United Kingdom,No,No,No,Don't know,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No
+0.18518518518518517,Male,United Kingdom,No,No,No,Don't know,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Yes,Yes,No,No
+0.3518518518518518,Male,United Kingdom,No,Yes,Yes,Rarely,6-25,No,Yes,No,No,No,No,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes
+0.3888888888888889,Male,Canada,No,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes
+0.46296296296296297,msle,United States,No,No,No,Sometimes,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,No,No
+0.25925925925925924,neuter,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,No,Yes,Yes,Don't know,Don't know,No,No,Yes,Some of them,Yes,Yes,Yes,Yes
+0.16666666666666669,Female,United States,No,No,No,Don't know,More than 1000,No,Yes,Don't know,Not sure,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.24074074074074076,Female,United Kingdom,No,No,No,Don't know,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.46296296296296297,Male,United Kingdom,No,No,Yes,Never,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No
+0.27777777777777773,Male,United States,No,No,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No
+0.2962962962962962,Male,United Kingdom,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.27777777777777773,Male,United States,Yes,No,No,Don't know,1-5,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No
+0.1296296296296296,Male,United States,No,No,No,Don't know,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.1296296296296296,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,Yes
+0.25925925925925924,Male,United Kingdom,Yes,Yes,No,Don't know,1-5,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,No,No
+0.1296296296296296,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.3518518518518518,Male,Netherlands,No,No,No,Don't know,100-500,Yes,No,Don't know,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,No,Don't know,No
+0.3888888888888889,Male,Switzerland,No,No,Yes,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No
+0.20370370370370366,Male,United Kingdom,No,No,No,Rarely,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,Yes
+0.27777777777777773,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.3518518518518518,Female,United States,No,No,Yes,Often,6-25,Yes,Yes,Don't know,Not sure,No,No,Yes,Somewhat difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes
+0.3148148148148148,Female,United States,No,No,Yes,Sometimes,100-500,No,No,Yes,No,No,No,Yes,Very difficult,Yes,Maybe,No,Some of them,No,Yes,No,Yes
+0.07407407407407407,Female,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes
+0.3703703703703704,Male,United States,No,No,No,Never,26-100,No,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,No,Yes
+0.25925925925925924,Female,United States,No,Yes,Yes,Often,100-500,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,Don't know,No
+0.18518518518518517,Male,Brazil,No,No,No,Don't know,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,Yes
+0.16666666666666669,Male,Switzerland,No,Yes,No,Don't know,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No
+0.3148148148148148,Female,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,No,Maybe,Yes,No
+0.20370370370370366,Male,United States,No,No,No,Never,100-500,No,No,Yes,Yes,Yes,No,Yes,Very easy,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No
+0.09259259259259262,Male,United States,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.3888888888888889,Male,United States,No,No,No,Don't know,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No
+0.22222222222222227,Female,United States,No,No,No,Don't know,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No
+0.25925925925925924,Male,United Kingdom,No,No,No,Don't know,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.18518518518518517,female (trans),United States,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes
+0.4074074074074074,Female,United States,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Yes
+0.3333333333333333,Female,United States,No,Yes,No,Don't know,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Yes,No
+0.16666666666666669,Male,United States,No,No,No,Don't know,26-100,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.4259259259259259,Male,United States,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No
+0.20370370370370366,Male,United Kingdom,No,No,No,Never,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.20370370370370366,Male,United Kingdom,No,No,Yes,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No
+0.3148148148148148,Male,United States,No,No,Yes,Often,1-5,No,No,No,No,No,No,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes
+0.18518518518518517,Male,United States,No,No,Yes,Never,6-25,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.3333333333333333,Female,United Kingdom,Yes,No,No,Sometimes,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.3888888888888889,Female,United States,No,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No
+0.3888888888888889,Male,United States,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.48148148148148145,Male,United States,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,No,Very easy,Yes,Yes,Some of them,No,No,No,Yes,No
+0.14814814814814814,queer,Germany,Yes,No,Yes,Sometimes,6-25,Yes,Yes,No,Not sure,Yes,Yes,Yes,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No
+0.3148148148148148,Male,Denmark,Yes,Yes,Yes,Often,1-5,No,Yes,No,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No
+0.4074074074074074,Female,United States,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No
+0.3148148148148148,Male,Denmark,Yes,Yes,Yes,Often,1-5,No,Yes,No,Yes,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No
+0.3703703703703704,Male,United States,No,No,No,Never,More than 1000,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,No,Don't know,No
+0.2962962962962962,Male,United States,No,No,No,Don't know,More than 1000,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.46296296296296297,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.5555555555555556,female (cis),United States,No,Yes,No,Often,26-100,No,Yes,Don't know,No,No,No,No,Very difficult,Yes,Yes,No,Some of them,No,No,No,Yes
+0.037037037037037035,Male,United States,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.4074074074074074,Male,United States,Yes,No,No,Sometimes,1-5,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No
+0.20370370370370366,Female,United Kingdom,No,No,Yes,Rarely,6-25,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.3148148148148148,Male,United States,No,Yes,Yes,Sometimes,1-5,No,No,No,Yes,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No
+0.20370370370370366,Male,United States,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Yes,No,Yes,Yes,Very easy,Maybe,No,Some of them,No,No,No,Yes,No
+0.4074074074074074,Male,United States,No,No,No,Never,100-500,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.20370370370370366,Male,Sweden,No,No,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No
+0.20370370370370366,Female,United States,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,Not sure,Don't know,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No
+0.2962962962962962,Male,United States,No,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No
+0.48148148148148145,Male,United Kingdom,No,Yes,Yes,Sometimes,500-1000,No,No,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes
+0.1111111111111111,Female,United States,No,Yes,Yes,Often,6-25,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes
+0.537037037037037,Female,United States,No,No,No,Don't know,100-500,Yes,Yes,Don't know,No,No,Don't know,Don't know,Very difficult,Yes,Yes,No,No,No,No,No,No
+0.46296296296296297,Male,United Kingdom,No,Yes,No,Don't know,More than 1000,No,No,Don't know,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No
+0.3333333333333333,Male,United States,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,No,No
+0.46296296296296297,Male,United States,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.3333333333333333,Male,United Kingdom,Yes,No,No,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Don't know,Yes
+0.24074074074074076,Female,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.3148148148148148,Male,United States,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.27777777777777773,Male,United States,No,Yes,No,Don't know,26-100,No,No,Yes,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,Don't know,No
+0.3518518518518518,Male,Italy,No,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No
+0.2962962962962962,Male,United States,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,No,Yes,Don't know,Yes,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.3333333333333333,Male,Netherlands,Yes,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,No,No,No,Yes,No
+0.4074074074074074,Male,United States,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No
+0.4074074074074074,Male,United States,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.44444444444444436,Male,United States,No,No,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,No,No,No,Maybe,Don't know,No
+0.09259259259259262,Male,United States,No,Yes,No,Don't know,26-100,Yes,Yes,Yes,Yes,No,Don't know,Yes,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No
+0.055555555555555525,Male,United Kingdom,No,Yes,No,Never,6-25,No,No,No,No,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.14814814814814814,Male,Canada,No,No,No,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No
+0.24074074074074076,Male,United States,No,Yes,No,Don't know,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.1296296296296296,Male,United States,No,Yes,No,Don't know,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No
+0.6111111111111112,Male,United States,No,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No
+0.1111111111111111,Male,United States,No,No,No,Don't know,6-25,No,Yes,Don't know,Not sure,Don't know,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.27777777777777773,Male,United States,No,No,No,Don't know,100-500,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,No,No
+0.25925925925925924,Male,United Kingdom,No,Yes,Yes,Rarely,6-25,No,No,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No
+0.25925925925925924,Male,United Kingdom,No,Yes,Yes,Rarely,6-25,No,No,No,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No
+0.14814814814814814,Male,United Kingdom,Yes,No,Yes,Rarely,1-5,Yes,Yes,No,Not sure,Don't know,Don't know,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.09259259259259262,Male,United States,No,No,No,Never,100-500,No,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Often,6-25,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No
+0.5185185185185186,Male,United States,No,No,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No
+0.2962962962962962,Male,United Kingdom,No,No,No,Don't know,6-25,Yes,Yes,No,No,No,No,No,Somewhat difficult,Yes,Maybe,No,No,No,Yes,No,Yes
+0.3148148148148148,Male,United States,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.3888888888888889,Male,United States,No,No,No,Don't know,1-5,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No
+0.25925925925925924,Male,Germany,Yes,No,No,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,No,No
+0.46296296296296297,Male,Mexico,Yes,No,No,Don't know,More than 1000,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.7037037037037037,Male,United States,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No
+0.25925925925925924,Female,United Kingdom,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes
+0.4259259259259259,Male,United Kingdom,No,No,No,Don't know,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,No,Yes
+0.3888888888888889,Male,United States,No,No,No,Don't know,More than 1000,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.3518518518518518,Male,United States,No,Yes,No,Don't know,500-1000,No,No,Yes,Yes,No,No,Yes,Very easy,Maybe,No,No,No,No,No,No,No
+0.22222222222222227,Male,United States,Yes,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,Don't know,No
+0.24074074074074076,Male,United States,No,No,No,Don't know,26-100,No,Yes,Yes,No,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No
+0.20370370370370366,Male,United States,No,No,No,Don't know,More than 1000,No,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No
+0.09259259259259262,Female,United Kingdom,No,Yes,No,Never,More than 1000,No,No,No,No,No,Yes,Don't know,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.24074074074074076,Male,United States,No,No,Yes,Never,26-100,No,Yes,Yes,Yes,No,Don't know,Yes,Very easy,Maybe,No,No,No,No,No,Don't know,No
+0.20370370370370366,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No
+0.22222222222222227,mail,United States,No,No,No,Never,26-100,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.3518518518518518,Male,United States,No,No,No,Never,500-1000,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Yes
+0.3333333333333333,Male,United States,Yes,No,No,Never,1-5,No,Yes,Yes,No,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Yes,Yes,Yes,Yes,No
+0.3148148148148148,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,No
+0.4259259259259259,Male,United States,No,Yes,No,Never,500-1000,Yes,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.24074074074074076,Male,United Kingdom,No,No,Yes,Rarely,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.3703703703703704,Male,United Kingdom,No,Yes,No,Don't know,500-1000,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No
+0.14814814814814814,Male,India,Yes,No,No,Don't know,100-500,No,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No
+0.3888888888888889,Male,United States,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,Yes
+0.44444444444444436,Male,United States,Yes,Yes,No,Sometimes,6-25,Yes,No,Yes,Not sure,Don't know,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No
+0.25925925925925924,Male,United States,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No
+0.20370370370370366,Male,United States,No,Yes,No,Don't know,100-500,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.22222222222222227,Male,United States,No,Yes,No,Never,100-500,No,Yes,Yes,No,Don't know,Yes,Don't know,Very difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,No
+0.4074074074074074,Male,United States,No,Yes,Yes,Often,500-1000,Yes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No
+0.6111111111111112,Male,United States,No,No,No,Don't know,100-500,No,No,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,No,Don't know,No
+0.27777777777777773,Male,United States,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No
+0.2962962962962962,Male,Germany,Yes,No,Yes,Sometimes,1-5,Yes,Yes,No,Not sure,No,No,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.5925925925925926,Male,United States,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.1111111111111111,Male,United States,No,No,No,Sometimes,26-100,Yes,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No
+0.1296296296296296,Male,United States,No,Yes,Yes,Rarely,26-100,No,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No
+0.46296296296296297,Male,United Kingdom,No,Yes,Yes,Rarely,26-100,No,Yes,No,No,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes
+0.1296296296296296,Female,United States,Yes,No,Yes,Often,1-5,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Yes
+0.1111111111111111,Male,United Kingdom,Yes,No,No,Don't know,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,No,No,No,Maybe,Yes,No
+0.6111111111111112,Male,United States,Yes,No,No,Never,1-5,No,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.574074074074074,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,Yes
+0.22222222222222227,Male,United States,No,No,No,Don't know,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No
+0.1296296296296296,Female,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Yes,No,No,No,No,No,No
+0.3333333333333333,Male,United States,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No
+0.5555555555555556,Male,United States,No,No,Yes,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Yes,Yes,No,Maybe,Yes,Yes
+0.5555555555555556,Male,Australia,No,No,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,Yes
+0.6481481481481481,Male,United States,No,No,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No
+0.1111111111111111,Female,United Kingdom,No,Yes,Yes,Often,6-25,Yes,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No
+0.27777777777777773,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Yes,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No
+0.1296296296296296,Female,Canada,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.22222222222222227,Male,United Kingdom,No,No,Yes,Sometimes,26-100,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No
+0.22222222222222227,Male,United States,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.2962962962962962,Male,United Kingdom,Yes,No,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No
+0.24074074074074076,Male,United States,No,No,No,Don't know,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No
+0.07407407407407407,Female,United States,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No
+0.18518518518518517,Male,United States,No,Yes,No,Sometimes,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No
+0.3148148148148148,Male,United States,No,Yes,Yes,Rarely,26-100,No,No,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No
+0.18518518518518517,Male,United States,No,Yes,Yes,Sometimes,26-100,No,No,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No
+0.44444444444444436,Male,New Zealand,No,No,Yes,Sometimes,More than 1000,No,No,No,Yes,Don't know,No,Yes,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Yes,No,Yes
+0.27777777777777773,Male,United States,No,Yes,No,Don't know,500-1000,No,Yes,Yes,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No
+0.20370370370370366,Male,United States,No,No,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No
+0.46296296296296297,Male,United States,No,Yes,No,Sometimes,500-1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,No,No
+0.20370370370370366,Male,United States,No,No,No,Don't know,26-100,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No
+0.1296296296296296,Male,United States,No,No,No,Don't know,100-500,Yes,Yes,Yes,No,No,No,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.24074074074074076,Male,United States,No,Yes,No,Never,100-500,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.3148148148148148,Female,United States,No,Yes,Yes,Sometimes,6-25,No,No,Yes,Not sure,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No
+0.2962962962962962,Male,United States,No,No,No,Often,1-5,No,Yes,Don't know,No,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.46296296296296297,cis male,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes
+0.3703703703703704,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,No,Not sure,No,No,Don't know,Very difficult,Yes,Yes,No,Some of them,No,Maybe,No,No
+0.14814814814814814,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure,No,Yes,Yes,Very difficult,Maybe,No,Some of them,Some of them,Yes,Yes,No,Yes
+0.3703703703703704,Male,United Kingdom,Yes,Yes,Yes,Rarely,1-5,Yes,No,No,No,No,No,Yes,Very difficult,Maybe,No,No,No,No,No,No,No
+0.44444444444444436,Male,United States,No,No,Yes,Often,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.27777777777777773,Male,Netherlands,No,Yes,Yes,Don't know,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Yes
+0.25925925925925924,Male,United States,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.48148148148148145,Male,United States,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No
+0.18518518518518517,Male,United States,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No
+0.4074074074074074,Male,United States,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Yes
+0.24074074074074076,Female,United States,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No
+0.25925925925925924,Male,United States,No,Yes,No,Sometimes,100-500,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,No
+0.18518518518518517,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No
+0.3888888888888889,Male,United States,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,No,Some of them,No,No,No,No,No
+0.49999999999999994,Male,United States,No,No,No,Don't know,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No
+0.46296296296296297,Male,United States,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Yes,No
+0.3148148148148148,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.4074074074074074,Male,United States,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,Don't know,Don't know,Yes,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.2962962962962962,Male,Netherlands,No,No,Yes,Rarely,26-100,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.1111111111111111,Male,United Kingdom,No,Yes,Yes,Often,26-100,No,No,Don't know,Yes,No,No,No,Somewhat easy,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes
+0.7962962962962963,Male,South Africa,Yes,No,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes
+0.3333333333333333,Female,United States,No,Yes,Yes,Rarely,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No
+0.3703703703703704,Male,United States,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.27777777777777773,Male,Germany,No,Yes,Yes,Often,26-100,No,Yes,Don't know,Not sure,Yes,No,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No
+0.22222222222222227,Male,United States,No,Yes,No,Never,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,No
+0.2962962962962962,Male,Netherlands,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Some of them,No,Maybe,Yes,No
+0.14814814814814814,Male,United States,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No
+0.27777777777777773,Male,United Kingdom,No,No,No,Don't know,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.25925925925925924,Male,United Kingdom,No,No,No,Don't know,6-25,No,Yes,Don't know,No,No,No,Don't know,Very easy,No,No,No,Yes,No,Maybe,No,No
+0.1296296296296296,Male,Germany,Yes,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No
+0.3148148148148148,Male,Germany,Yes,No,Yes,Sometimes,26-100,Yes,No,Don't know,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,Yes,No,No,Maybe,Don't know,No
+0.1111111111111111,Male,United Kingdom,Yes,Yes,No,Often,1-5,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.6851851851851851,Male,United Kingdom,No,No,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,Maybe,No,Some of them,No,Maybe,No,Yes
+0.27777777777777773,Male,United Kingdom,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes
+0.14814814814814814,Female,United Kingdom,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No
+0.1296296296296296,Male,United Kingdom,No,No,No,Never,6-25,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No
+0.49999999999999994,Male,United Kingdom,No,Yes,No,Rarely,100-500,No,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.27777777777777773,Female,United Kingdom,Yes,No,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.46296296296296297,Male,United States,No,No,No,Sometimes,More than 1000,Yes,Yes,No,Not sure,No,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes
+0.22222222222222227,Male,United Kingdom,Yes,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,No,Yes,Yes
+0.4074074074074074,Male,United States,No,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No
+0.574074074074074,Male,United States,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,No,No,Yes,No
+0.20370370370370366,Male,Germany,No,No,No,Don't know,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No
+0.14814814814814814,Male,Germany,No,No,No,Don't know,500-1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.3703703703703704,cis male,United States,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes
+0.16666666666666669,Male,France,No,Yes,No,Don't know,500-1000,No,No,Yes,Yes,Don't know,No,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,Maybe,Don't know,Yes
+0.14814814814814814,Male,Belgium,No,No,No,Never,6-25,No,Yes,Yes,No,No,No,No,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No
+0.18518518518518517,Male,United Kingdom,No,Yes,Yes,Often,26-100,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Yes,No,No,No,No
+0.4074074074074074,Male,United States,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No
+0.3518518518518518,Female,Canada,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Yes
+0.2962962962962962,Female,United Kingdom,No,Yes,Yes,Often,26-100,Yes,No,Yes,Yes,No,Yes,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No
+0.18518518518518517,Male,United States,No,Yes,Yes,Often,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No
+0.16666666666666669,Male,Canada,No,No,No,Never,26-100,No,Yes,Yes,Not sure,Yes,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.20370370370370366,Male,United Kingdom,No,No,Yes,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No
+0.3888888888888889,Female,United Kingdom,No,Yes,No,Rarely,500-1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes
+0.18518518518518517,Male,United Kingdom,No,No,No,Often,6-25,No,Yes,No,No,No,No,No,Somewhat difficult,Yes,No,No,No,No,Yes,Yes,No
+0.09259259259259262,Male,United States,No,Yes,No,Sometimes,26-100,No,Yes,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,No,No,No,No,No,Maybe,Don't know,No
+0.3703703703703704,Male,United Kingdom,No,No,No,Don't know,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.018518518518518545,Male,United Kingdom,No,No,No,Don't know,6-25,No,Yes,Yes,No,No,Yes,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No
+0.22222222222222227,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Don't know,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No
+0.18518518518518517,Male,United Kingdom,Yes,No,No,Don't know,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,No,No,No,No,Yes,No
+0.037037037037037035,Male,India,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Yes,No
+0.3148148148148148,Male,United Kingdom,Yes,No,No,Sometimes,1-5,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.3888888888888889,Male,United States,No,No,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.24074074074074076,Female,United States,No,Yes,No,Never,More than 1000,No,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No
+0.25925925925925924,Male,United Kingdom,No,No,No,Rarely,500-1000,No,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No
+0.16666666666666669,Male,Sweden,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Don't know,No,No,No,No,No,No,Don't know,No
+0.1296296296296296,Male,United States,No,Yes,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.44444444444444436,Male,United States,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No
+0.2962962962962962,Male,United States,No,Yes,Yes,Often,100-500,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No
+0.14814814814814814,Female,United States,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Maybe,Don't know,Yes
+0.3148148148148148,Male,United Kingdom,No,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,Yes,Yes
+0.2962962962962962,Male,United Kingdom,No,No,No,Never,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Very easy,Maybe,No,Yes,Yes,No,No,Yes,No
+0.3703703703703704,Male,United States,No,Yes,Yes,Sometimes,100-500,Yes,No,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No
+0.2962962962962962,Male,United States,No,No,No,Sometimes,100-500,No,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No
+0.3888888888888889,Male,United States,No,Yes,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No
+0.48148148148148145,Female,United States,No,No,No,Don't know,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No
+0.4074074074074074,Male,United States,No,No,No,Don't know,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,No,Yes,No,No,Don't know,No
+0.27777777777777773,Female,United States,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,Don't know,Don't know,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,No
+0.1111111111111111,Female,United States,No,Yes,No,Sometimes,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes
+0.3703703703703704,Female,United States,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.24074074074074076,Male,United States,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Yes,No
+0.09259259259259262,Male,Israel,No,No,No,Don't know,100-500,No,Yes,Don't know,Not sure,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No
+0.14814814814814814,Female,United States,No,No,No,Don't know,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No
+0.5185185185185186,female (trans),United States,No,No,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,No,Yes
+0.22222222222222227,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.1296296296296296,Male,United States,No,No,No,Rarely,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Yes,Don't know,Yes
+0.018518518518518545,Male,Canada,No,No,No,Never,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,No,No
+0.22222222222222227,Female,United States,No,Yes,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,No,Yes
+0.25925925925925924,Male,United States,No,No,No,Never,6-25,No,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No
+0.25925925925925924,Male,United Kingdom,No,No,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No
+0.3518518518518518,Male,United States,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No
+0.44444444444444436,Male,United States,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.1296296296296296,Female,United States,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,No,Yes,No
+0.018518518518518545,Male,United States,No,No,No,Sometimes,1-5,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.4074074074074074,Female,United States,No,Yes,No,Never,100-500,Yes,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No
+0.2962962962962962,Male,United States,No,No,No,Don't know,More than 1000,No,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,No
+0.14814814814814814,Male,United States,No,Yes,No,Don't know,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No
+0.24074074074074076,Male,United States,No,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.4074074074074074,Male,United States,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Not sure,Yes,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No
+0.24074074074074076,Female,United States,No,Yes,Yes,Often,26-100,No,Yes,No,No,No,No,No,Very difficult,Yes,No,No,No,No,Yes,No,Yes
+0.3333333333333333,Male,United States,No,No,No,Never,100-500,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Yes
+0.3148148148148148,Male,Canada,No,Yes,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No
+0.14814814814814814,Male,Australia,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No
+0.48148148148148145,Male,United States,No,No,No,Don't know,More than 1000,Yes,No,Don't know,No,Don't know,Don't know,Yes,Don't know,Yes,No,Some of them,No,No,No,No,No
+0.2962962962962962,Female,United States,No,No,No,Sometimes,1-5,No,Yes,No,Not sure,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.3148148148148148,Male,United States,No,No,No,Don't know,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,No,No,No,No,No,No,Don't know,No
+0.18518518518518517,Female,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,No,No
+0.27777777777777773,Male,United States,No,No,No,Don't know,6-25,Yes,Yes,Yes,No,Don't know,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No
+0.4074074074074074,Male,United States,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No
+0.14814814814814814,Male,United States,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.20370370370370366,Female,United Kingdom,No,No,Yes,Often,More than 1000,No,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,No,Yes
+0.14814814814814814,Female,Canada,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.27777777777777773,malr,Italy,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Not sure,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No
+0.18518518518518517,Male,Brazil,No,Yes,No,Sometimes,100-500,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,Yes
+0.4259259259259259,Male,United States,Yes,No,Yes,Often,1-5,Yes,No,No,Yes,Yes,Yes,Yes,Very difficult,No,No,Some of them,Some of them,No,No,Yes,Yes
+0.3888888888888889,Male,United Kingdom,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,Yes
+0.14814814814814814,Female,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,Yes
+0.09259259259259262,Female,United States,No,Yes,No,Sometimes,26-100,No,No,No,No,No,No,Don't know,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,No,No
+0.3148148148148148,Male,Switzerland,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Not sure,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No
+0.3333333333333333,Male,United States,No,No,No,Never,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No
+0.44444444444444436,Male,United States,No,No,No,Rarely,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No
+0.3888888888888889,Male,United States,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No
+0.16666666666666669,Male,United States,No,No,No,Never,6-25,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.27777777777777773,Male,United States,Yes,No,No,Never,6-25,Yes,Yes,Don't know,No,No,No,No,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No
+0.24074074074074076,Male,Canada,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.18518518518518517,Female,United States,No,No,Yes,Rarely,6-25,No,Yes,Yes,Yes,Don't know,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Yes,Don't know,No
+0.20370370370370366,Female,United States,No,No,Yes,Often,More than 1000,Yes,No,Yes,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No
+0.16666666666666669,Male,United States,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure,No,No,Yes,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,No
+0.48148148148148145,Male,United States,Yes,No,No,Never,1-5,Yes,Yes,Don't know,No,No,No,Yes,Somewhat difficult,No,No,No,No,No,No,Don't know,No
+0.1296296296296296,Male,United States,No,No,Yes,Often,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.1111111111111111,Male,Germany,No,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,No,Don't know,No
+0.1296296296296296,Male,South Africa,No,Yes,Yes,Often,6-25,No,No,Don't know,No,No,No,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,No,Yes
+0.2962962962962962,Male,United States,No,No,No,Never,6-25,Yes,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,Maybe,Don't know,No
+0.14814814814814814,Male,United States,No,No,No,Never,More than 1000,No,No,Yes,Yes,No,Don't know,Don't know,Somewhat difficult,Maybe,No,No,Yes,No,No,Don't know,No
+0.5555555555555556,Male,United States,No,No,No,Never,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No
+0.2962962962962962,Male,Greece,No,No,No,Don't know,26-100,Yes,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No
+0.3888888888888889,Female,United States,No,No,Yes,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No
+0.46296296296296297,Male,United States,No,No,No,Sometimes,More than 1000,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.4259259259259259,Male,United States,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,Yes
+0.1296296296296296,Male,United States,No,No,No,Never,More than 1000,No,No,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.24074074074074076,Male,United States,No,No,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No
+0.4074074074074074,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,No,No,No,Maybe,No,Yes
+0.46296296296296297,Male,United States,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No
+0.16666666666666669,Female,United States,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes
+0.3518518518518518,Female,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.25925925925925924,Male,Netherlands,Yes,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Yes,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,No
+0.1296296296296296,Male,United States,No,Yes,Yes,Often,1-5,No,Yes,No,Yes,No,No,Yes,Very easy,Maybe,No,Yes,Yes,No,Maybe,No,No
+0.20370370370370366,Male,Netherlands,No,Yes,Yes,Often,1-5,No,Yes,Don't know,Not sure,Don't know,Yes,Don't know,Very difficult,No,Maybe,Yes,Yes,Maybe,No,Yes,No
+0.22222222222222227,Female,United States,No,Yes,Yes,Often,More than 1000,No,No,Yes,No,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No
+0.2962962962962962,Female,Canada,No,Yes,Yes,Often,26-100,No,No,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No
+0.25925925925925924,Male,United Kingdom,No,Yes,Yes,Sometimes,1-5,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No
+0.3518518518518518,Male,Germany,No,No,No,Don't know,6-25,No,Yes,Don't know,No,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.4259259259259259,Male,Germany,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No
+0.3703703703703704,Male,United States,No,Yes,No,Never,More than 1000,No,No,Yes,Not sure,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No
+0.25925925925925924,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.18518518518518517,Female,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No
+0.46296296296296297,Male,United States,No,Yes,No,Never,100-500,No,No,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No
+0.25925925925925924,Male,United States,No,Yes,Yes,Often,100-500,No,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,Yes,Yes,No,Yes,No,No
+0.1296296296296296,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Don't know,Yes,Don't know,Yes,No,No,No,No,No,Yes,No
+0.3518518518518518,Male,United States,No,No,Yes,Sometimes,100-500,No,Yes,Yes,No,No,Yes,Yes,Very easy,No,No,No,Yes,No,No,Yes,No
+0.3333333333333333,Male,United States,Yes,No,Yes,Sometimes,1-5,No,No,No,Yes,No,No,No,Very difficult,No,No,No,No,No,No,No,Yes
+0.1111111111111111,Male,United States,No,Yes,Yes,Rarely,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No
+0.4074074074074074,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes
+0.20370370370370366,Male,United States,No,No,No,Don't know,More than 1000,No,No,Don't know,Not sure,Yes,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.46296296296296297,Male,United States,No,No,No,Never,500-1000,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Some of them,No,No,Yes,No
+0.20370370370370366,Male,United States,No,No,No,Don't know,6-25,Yes,Yes,Yes,Not sure,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No
+0.14814814814814814,Male,United States,No,Yes,No,Sometimes,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.27777777777777773,Female,Canada,Yes,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,Maybe,No,Yes
+0.3148148148148148,Female,United States,No,Yes,No,Sometimes,6-25,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Yes,Some of them,No,No,Yes,No
+0.49999999999999994,Male,United States,No,No,No,Never,6-25,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No
+0.1296296296296296,Male,United States,No,No,Yes,Rarely,6-25,Yes,Yes,No,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,Maybe,Don't know,No
+0.5925925925925926,Male,France,Yes,No,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,No
+0.14814814814814814,Male,Australia,No,Yes,Yes,Rarely,26-100,No,Yes,No,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No
+0.27777777777777773,Female,United States,No,No,Yes,Often,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No
+0.22222222222222227,Male,India,No,No,No,Often,6-25,No,Yes,No,No,No,No,No,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.27777777777777773,Male,Croatia,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,No,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.20370370370370366,Male,France,No,No,Yes,Often,6-25,No,Yes,Yes,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,Yes,No,No
+0.3518518518518518,Male,Germany,No,No,No,Don't know,6-25,Yes,Yes,No,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No
+0.1296296296296296,Male,United States,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No
+0.4074074074074074,Male,United States,No,No,No,Don't know,More than 1000,No,No,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.1111111111111111,Male,Canada,No,No,No,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Yes
+0.4074074074074074,Male,United Kingdom,No,No,Yes,Never,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Maybe,Don't know,No
+0.5185185185185186,Male,United States,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Don't know,No
+0.3703703703703704,Male,United States,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,No,Yes,No,Yes,Don't know,No
+0.2962962962962962,Male,United States,No,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No
+0.25925925925925924,Male,United Kingdom,Yes,No,Yes,Rarely,1-5,No,Yes,No,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes
+0.48148148148148145,Male,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,No,No,No,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No
+0.27777777777777773,Female,United Kingdom,No,No,Yes,Never,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No
+0.49999999999999994,Female,United States,No,No,Yes,Rarely,26-100,No,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.3148148148148148,Male,United States,No,No,No,Don't know,6-25,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,No,No,No,No,No,No,Yes,No
+0.14814814814814814,Male,Germany,Yes,Yes,Yes,Often,1-5,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,No,Yes
+0.037037037037037035,Female,United States,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.3518518518518518,Male,Netherlands,No,Yes,No,Sometimes,6-25,No,Yes,No,No,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No
+0.18518518518518517,Male,United States,No,No,No,Don't know,More than 1000,No,No,Yes,No,No,No,Yes,Somewhat easy,Maybe,No,No,No,No,Yes,No,No
+0.44444444444444436,Female,United States,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No
+0.25925925925925924,Male,United Kingdom,No,No,No,Don't know,26-100,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,Yes
+0.3333333333333333,Female,United States,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,No,No,No,Don't know,No
+0.16666666666666669,Male,New Zealand,No,No,No,Rarely,26-100,No,Yes,No,Yes,No,Yes,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes
+0.16666666666666669,Male,New Zealand,No,No,No,Rarely,26-100,No,Yes,No,Yes,No,Yes,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes
+0.16666666666666669,Male,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,No,No,No,No,No,Yes,Somewhat easy,Maybe,No,Yes,Yes,Maybe,Maybe,No,No
+0.1296296296296296,Male,United Kingdom,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No
+0.4259259259259259,Male,United Kingdom,No,Yes,No,Don't know,6-25,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.09259259259259262,Male,Germany,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No
+0.055555555555555525,Male,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
+0.14814814814814814,Male,Moldova,No,No,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No
+0.20370370370370366,Male,Sweden,No,No,No,Rarely,More than 1000,No,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,Yes,Don't know,Yes
+0.18518518518518517,Male,Belgium,No,No,No,Sometimes,More than 1000,No,No,No,No,No,No,Don't know,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,Yes
+0.16666666666666669,Female,United Kingdom,No,Yes,No,Don't know,More than 1000,No,No,No,Yes,No,No,Yes,Don't know,Maybe,No,No,No,No,Yes,Yes,No
+0.09259259259259262,Male,Israel,No,No,No,Never,More than 1000,No,No,No,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,Yes,Yes,No
+0.14814814814814814,Female,United States,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No
+0.3703703703703704,Male,United Kingdom,No,Yes,Yes,Sometimes,1-5,No,Yes,No,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No
+0.3888888888888889,Male,United Kingdom,No,Yes,Yes,Sometimes,More than 1000,No,No,No,No,No,No,Yes,Very easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Yes,No
+0.3148148148148148,Male,United States,No,Yes,Yes,Often,More than 1000,No,No,Yes,Yes,No,Yes,Don't know,Somewhat easy,Yes,No,No,Some of them,No,Yes,Don't know,No
+0.25925925925925924,Male,United States,No,No,No,Rarely,6-25,No,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No
+0.25925925925925924,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Yes
+0.14814814814814814,Male,United Kingdom,No,No,No,Never,6-25,No,Yes,No,No,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No
+0.3703703703703704,Male,Canada,No,Yes,Yes,Rarely,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No
+0.2962962962962962,Female,United Kingdom,No,Yes,No,Rarely,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.3888888888888889,Male,United States,No,Yes,Yes,Often,26-100,No,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.25925925925925924,Male,Canada,Yes,No,No,Never,6-25,Yes,Yes,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.3518518518518518,Male,Netherlands,Yes,No,No,Never,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,Yes,Yes,Some of them,Some of them,No,No,Don't know,No
+0.24074074074074076,Male,United Kingdom,No,Yes,Yes,Never,6-25,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No
+0.22222222222222227,Male,United States,No,Yes,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Don't know,Don't know,No,No,No,No,No,No,Don't know,No
+0.6111111111111112,Male,Singapore,No,No,No,Never,More than 1000,Yes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,No,No,No
+0.20370370370370366,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.24074074074074076,Male,United Kingdom,No,No,No,Never,100-500,No,Yes,Yes,No,No,Yes,Don't know,Don't know,Maybe,Yes,Some of them,No,No,No,Yes,No
+0.24074074074074076,Male,India,No,No,No,Don't know,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No
+0.14814814814814814,Male,United States,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.5185185185185186,Female,United States,No,No,Yes,Often,100-500,Yes,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No
+0.25925925925925924,Male,United States,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No
+0.20370370370370366,Male,United States,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.2962962962962962,Male,Poland,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No
+0.14814814814814814,Male,Colombia,No,No,No,Often,6-25,No,Yes,No,No,No,No,No,Very difficult,Yes,No,No,No,No,Maybe,Yes,No
+0.25925925925925924,Female,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No
+0.20370370370370366,Male,United States,No,No,No,Don't know,More than 1000,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,No
+0.22222222222222227,Male,United States,No,No,No,Don't know,More than 1000,No,No,Yes,No,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No
+0.4074074074074074,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,Yes
+0.09259259259259262,Male,United Kingdom,No,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Don't know,Very difficult,Maybe,No,Yes,Yes,Yes,Yes,No,Yes
+0.037037037037037035,Male,Georgia,No,No,No,Rarely,26-100,No,No,No,No,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,Maybe,No,No
+0.3703703703703704,Male,United States,No,Yes,No,Don't know,6-25,No,Yes,Don't know,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,No,Don't know,Yes
+0.14814814814814814,Female,United States,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No
+0.20370370370370366,Male,United States,No,No,No,Never,26-100,No,Yes,No,No,No,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,No,Yes
+0.4074074074074074,Male,China,Yes,No,No,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No
+0.1296296296296296,Female,Bulgaria,No,No,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,Maybe,No,No,No
+0.25925925925925924,Female,United States,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,No,No
+0.3703703703703704,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes
+1.0,Female,United States,No,Yes,Yes,Never,500-1000,Yes,No,Yes,Not sure,Don't know,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Don't know,Yes
+0.3148148148148148,Female,United States,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No
+0.18518518518518517,Female,United States,No,No,Yes,Often,6-25,No,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.16666666666666669,femail,United States,No,No,No,Never,100-500,No,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No
+0.7037037037037037,Female,United States,Yes,No,No,Rarely,1-5,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No
+0.3703703703703704,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.24074074074074076,Female,Belgium,No,No,No,Don't know,26-100,No,Yes,Don't know,Not sure,No,No,Yes,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.4074074074074074,Male,United States,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,No,Yes,No
+0.48148148148148145,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.2962962962962962,Male,Canada,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No
+0.3518518518518518,Male,United Kingdom,No,No,No,Never,26-100,Yes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No
+0.3703703703703704,Male,Italy,No,No,No,Never,26-100,No,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,No,No,Some of them,Yes,Yes,Maybe,No,No
+0.16666666666666669,Male,Germany,No,No,No,Don't know,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No
+0.2962962962962962,Female,Ireland,No,No,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,No,Yes,Don't know,Yes,Yes,Some of them,Some of them,No,No,Yes,No
+0.3148148148148148,Female,Ireland,No,No,No,Rarely,1-5,No,Yes,Don't know,No,No,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No
+0.2962962962962962,Male,Ireland,No,No,Yes,Often,6-25,No,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,No
+0.25925925925925924,Male,United States,No,No,Yes,Often,26-100,Yes,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,Don't know,No
+0.1296296296296296,Male,Ireland,No,No,No,Don't know,100-500,No,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.18518518518518517,Male,Australia,No,No,Yes,Often,100-500,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No
+0.18518518518518517,Female,United States,No,No,Yes,Rarely,6-25,No,Yes,Yes,No,No,No,Don't know,Somewhat easy,Yes,Yes,Some of them,No,No,No,No,Yes
+0.24074074074074076,Male,Brazil,Yes,No,Yes,Don't know,1-5,No,Yes,No,Yes,No,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No
+0.1111111111111111,Male,United Kingdom,No,No,No,Don't know,100-500,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,No
+0.2962962962962962,Male,Ireland,No,Yes,Yes,Never,1-5,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No
+0.25925925925925924,Male,Ireland,No,No,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No
+0.2962962962962962,Male,United Kingdom,No,Yes,No,Often,26-100,Yes,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No
+0.09259259259259262,Male,United States,No,No,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,No,Very easy,Maybe,Maybe,Some of them,Yes,No,No,No,No
+0.27777777777777773,Male,Czech Republic,No,Yes,No,Often,100-500,No,Yes,No,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Yes
+0.20370370370370366,Male,Singapore,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No
+0.1111111111111111,Male,Ireland,No,Yes,No,Don't know,1-5,No,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No
+0.49999999999999994,Male,Ireland,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,No,Yes,Some of them,No,No,No,Yes
+0.2962962962962962,Female,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,No,No,Yes,No,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes
+0.24074074074074076,Male,Philippines,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,Maybe,No,Yes
+0.27777777777777773,Male,United States,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No
+0.18518518518518517,Male,Netherlands,No,No,No,Don't know,6-25,No,Yes,No,Not sure,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.16666666666666669,Male,United Kingdom,No,No,No,Rarely,More than 1000,Yes,No,Don't know,Not sure,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.44444444444444436,Male,Ireland,No,No,No,Never,26-100,No,Yes,No,Yes,No,No,No,Somewhat difficult,Yes,Yes,Some of them,Some of them,No,No,No,No
+0.18518518518518517,Male,Netherlands,No,No,No,Don't know,6-25,No,Yes,No,Not sure,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.3703703703703704,Male,United States,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Don't know,No
+0.5185185185185186,Male,United States,No,Yes,Yes,Often,26-100,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No
+0.5185185185185186,Male,United States,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No
+0.4259259259259259,Female,Netherlands,Yes,No,Yes,Rarely,1-5,Yes,Yes,Don't know,Yes,Don't know,Yes,No,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No
+0.09259259259259262,Male,United Kingdom,No,No,No,Never,26-100,No,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Yes,Yes
+0.1111111111111111,Male,Ireland,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Yes,Yes
+0.09259259259259262,Female,Ireland,No,No,Yes,Rarely,26-100,No,Yes,No,Yes,Yes,No,Don't know,Don't know,No,No,Yes,Some of them,No,Maybe,Don't know,No
+0.3888888888888889,Male,Netherlands,No,No,No,Don't know,More than 1000,No,No,Yes,Not sure,Yes,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Yes,No
+0.25925925925925924,Female,Ireland,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No
+0.1296296296296296,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Yes,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No
+0.3888888888888889,Male,Greece,No,No,No,Don't know,6-25,Yes,Yes,No,No,No,No,Yes,Don't know,Yes,No,No,No,No,No,Don't know,No
+0.09259259259259262,Female,United Kingdom,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.1111111111111111,cis man,United Kingdom,Yes,No,Yes,Sometimes,6-25,Yes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes
+0.1296296296296296,Male,United Kingdom,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No
+0.09259259259259262,Male,United Kingdom,No,No,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No
+0.1111111111111111,"ostensibly male, unsure what that really means",United Kingdom,No,No,Yes,Sometimes,6-25,No,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No
+0.09259259259259262,Male,Canada,No,No,Yes,Often,26-100,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No
+0.7777777777777779,Male,United States,No,No,Yes,Often,More than 1000,Yes,Yes,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No
+0.18518518518518517,Male,Ireland,No,No,No,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,Don't know,Yes,Maybe,No,No,No,No,No,Yes
+0.18518518518518517,Male,United States,No,Yes,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,Some of them,Yes,No,No,No,Yes
+0.22222222222222227,Male,Netherlands,No,No,No,Sometimes,500-1000,No,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,Don't know,No
+0.24074074074074076,Male,Germany,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,No,No,Yes,Somewhat easy,No,No,Some of them,No,No,No,Don't know,No
+0.24074074074074076,Male,Poland,Yes,No,Yes,Often,6-25,Yes,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No
+0.18518518518518517,Male,Ireland,No,No,Yes,Rarely,26-100,No,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No
+0.46296296296296297,Female,United States,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No
+0.25925925925925924,Female,United Kingdom,No,No,No,Don't know,More than 1000,No,No,No,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No
+0.07407407407407407,Male,Australia,No,Yes,Yes,Often,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,No,Yes,No,Maybe,Don't know,Yes
+0.25925925925925924,Male,United States,No,No,No,Never,100-500,No,Yes,Yes,Not sure,Don't know,Yes,Don't know,Somewhat easy,No,No,No,Some of them,Maybe,Yes,Don't know,No
+0.3333333333333333,Male,Finland,No,No,Yes,Often,6-25,No,Yes,No,No,No,No,No,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,Yes
+0.4259259259259259,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No
+0.22222222222222227,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Don't know,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No
+0.22222222222222227,Male,United States,Yes,Yes,Yes,Often,26-100,No,Yes,Yes,Not sure,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No
+0.3333333333333333,Male,South Africa,No,Yes,Yes,Often,100-500,No,No,No,Yes,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Yes,No
+0.20370370370370366,Male,United States,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,Yes,No,Yes,Don't know,Yes,No,Some of them,No,No,Maybe,No,No
+0.3333333333333333,Male,United States,No,Yes,No,Rarely,More than 1000,No,No,Don't know,No,Yes,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No
+0.14814814814814814,Male,United Kingdom,No,No,Yes,Don't know,26-100,No,Yes,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No
+0.25925925925925924,Male,United States,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,Yes,No
+0.2962962962962962,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,No
+0.5185185185185186,Female,United States,No,No,No,Don't know,100-500,Yes,Yes,No,Yes,No,No,Don't know,Don't know,Yes,No,No,No,No,No,No,No
+0.1296296296296296,Male,United States,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No
